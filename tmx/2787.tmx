@@ -1,0 +1,4423 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tmx version="1.4">
+<header creationtool="ABBYY Aligner" creationtoolversion="1.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="en-US" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="ba"><seg>2787 һүҙ</seg></tuv>
+<tuv xml:lang="ru"><seg>2787 слов</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Танышыу</seg></tuv>
+<tuv xml:lang="ru"><seg>Знакомство</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Вопросительные частицы</seg></tuv>
+<tuv xml:lang="ru"><seg>Һорау киҫәксәләре</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Исем</seg></tuv>
+<tuv xml:lang="ru"><seg>Имя</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Кем</seg></tuv>
+<tuv xml:lang="ru"><seg>Кто</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Таныш</seg></tuv>
+<tuv xml:lang="ru"><seg>Знакомый</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Таныш булайыҡ</seg></tuv>
+<tuv xml:lang="ru"><seg>Будем знакомы</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Таныш булығыҙ</seg></tuv>
+<tuv xml:lang="ru"><seg>Будьте знакомы</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Танышыуыма шатмын</seg></tuv>
+<tuv xml:lang="ru"><seg>Рад знакомству</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Рəхим итегеҙ</seg></tuv>
+<tuv xml:lang="ru"><seg>Добро пожаловать</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Иҫəнмеһегеҙ!</seg></tuv>
+<tuv xml:lang="ru"><seg>Здравствуйте!</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Минең исемем – Айнур.</seg></tuv>
+<tuv xml:lang="ru"><seg>Меня зовут Айнур.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Ə мин – Наҙгөл.</seg></tuv>
+<tuv xml:lang="ru"><seg>А я – Назгуль.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Мин бик шат.</seg></tuv>
+<tuv xml:lang="ru"><seg>Я очень рад.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Мин дə.</seg></tuv>
+<tuv xml:lang="ru"><seg>Я тоже.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Сəлəм!</seg></tuv>
+<tuv xml:lang="ru"><seg>Привет!</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Минең исемем – Илшат.</seg></tuv>
+<tuv xml:lang="ru"><seg>Меня зовут – Ильшат.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Һинеке Юрамы?</seg></tuv>
+<tuv xml:lang="ru"><seg>А твое – Юра.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Эйе, Юра.</seg></tuv>
+<tuv xml:lang="ru"><seg>Да, Юра.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Мине белəһеңме ни?</seg></tuv>
+<tuv xml:lang="ru"><seg>Разве меня знаешь?</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Ишеткəнем бар.</seg></tuv>
+<tuv xml:lang="ru"><seg>Наслышан.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Танышыуға шатмын.</seg></tuv>
+<tuv xml:lang="ru"><seg>Рад знокомству.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Танышыуға бик шатмын.</seg></tuv>
+<tuv xml:lang="ru"><seg>Очень рад знокомству.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Мин дə.</seg></tuv>
+<tuv xml:lang="ru"><seg>Я тоже.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Кəңəшмə бөгөн буламы?</seg></tuv>
+<tuv xml:lang="ru"><seg>Будет ли (состоится ли) сегодня совещание?</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Əлбиттə.</seg></tuv>
+<tuv xml:lang="ru"><seg>Конечно. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Бергə барырбыҙ</seg></tuv>
+<tuv xml:lang="ru"><seg>Вместе пойдем.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Мин</seg></tuv>
+<tuv xml:lang="ru"><seg>Я</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Һин</seg></tuv>
+<tuv xml:lang="ru"><seg>Ты</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Беҙ</seg></tuv>
+<tuv xml:lang="ru"><seg>Мы</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Һеҙ</seg></tuv>
+<tuv xml:lang="ru"><seg>Вы</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Ул</seg></tuv>
+<tuv xml:lang="ru"><seg>Он (она, оно)</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Улар</seg></tuv>
+<tuv xml:lang="ru"><seg>Они</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Сәләмләү</seg></tuv>
+<tuv xml:lang="ru"><seg>Приветствие</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Хəйерле иртə!</seg></tuv>
+<tuv xml:lang="ru"><seg>Доброе утро!</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Хəйерле көн!</seg></tuv>
+<tuv xml:lang="ru"><seg>Добрый день!</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Хəйерле кис!</seg></tuv>
+<tuv xml:lang="ru"><seg>Добрый вечер!</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Һаумыһығыҙ!</seg></tuv>
+<tuv xml:lang="ru"><seg>Здравствуйте!</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Ярай</seg></tuv>
+<tuv xml:lang="ru"><seg>Ладно</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Яҡшы</seg></tuv>
+<tuv xml:lang="ru"><seg>Хорошо</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Һəйбəт</seg></tuv>
+<tuv xml:lang="ru"><seg>Хорошо</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Шəпме</seg></tuv>
+<tuv xml:lang="ru"><seg>Как дела?</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Шəпме</seg></tuv>
+<tuv xml:lang="ru"><seg>Все хорошо?</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Нихəл</seg></tuv>
+<tuv xml:lang="ru"><seg>Как дела?</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Сəлəм!</seg></tuv>
+<tuv xml:lang="ru"><seg>Привет!</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Кəйефегеҙ нисек?</seg></tuv>
+<tuv xml:lang="ru"><seg>Как ваше настроение?</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Хушлашыу</seg></tuv>
+<tuv xml:lang="ru"><seg>Прощание</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Һау булығыҙ!</seg></tuv>
+<tuv xml:lang="ru"><seg>До свидания!</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Хушығыҙ!</seg></tuv>
+<tuv xml:lang="ru"><seg>Прощайте!</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Осрашҡанға тиклем!</seg></tuv>
+<tuv xml:lang="ru"><seg>До встречи!</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Күрешкəнгə тиклем!</seg></tuv>
+<tuv xml:lang="ru"><seg>До встречи!</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Кискə ҡəҙəр!</seg></tuv>
+<tuv xml:lang="ru"><seg>До вечера!</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Хəйерле юл!</seg></tuv>
+<tuv xml:lang="ru"><seg>Счастливого пути!</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Һөнəр</seg></tuv>
+<tuv xml:lang="ru"><seg>Специальность</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Һөнəр</seg></tuv>
+<tuv xml:lang="ru"><seg>Профессия</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Һеҙҙең яңы хеҙмəткəр</seg></tuv>
+<tuv xml:lang="ru"><seg>Ваш новый сотрудник</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>күптəн</seg></tuv>
+<tuv xml:lang="ru"><seg>давно</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>күрешкəнебеҙ юҡ</seg></tuv>
+<tuv xml:lang="ru"><seg>не встречались</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>хəлдəрең нисек</seg></tuv>
+<tuv xml:lang="ru"><seg>как дела</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ниндəй эштəр ҡыйратаһың</seg></tuv>
+<tuv xml:lang="ru"><seg>чем занимаешься</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>үҙ бизнесым</seg></tuv>
+<tuv xml:lang="ru"><seg>свой бизнес</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>асырға уйлайым</seg></tuv>
+<tuv xml:lang="ru"><seg>думаю открыть</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>эштəр барамы</seg></tuv>
+<tuv xml:lang="ru"><seg>идет ли работа</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>əлеге ваҡытта</seg></tuv>
+<tuv xml:lang="ru"><seg>в настоящее время</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>нефть эшкəртеү заводы</seg></tuv>
+<tuv xml:lang="ru"><seg>нефтеперерабатывающий завод</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Һин ҡайҙан?</seg></tuv>
+<tuv xml:lang="ru"><seg>Ты откуда?</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Мин Башҡортостандан.</seg></tuv>
+<tuv xml:lang="ru"><seg>Я из Башкортостана.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Ə Башҡортостан ҡайҙа урынлашҡан?</seg></tuv>
+<tuv xml:lang="ru"><seg>А где находится Башкортостан?</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Ул Урал тауҙарының көньяғында урынлашҡан.</seg></tuv>
+<tuv xml:lang="ru"><seg>Он расположен на юге Уральских гор.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Башҡортостан Республикаһының баш ҡалаһын белəһеңме?</seg></tuv>
+<tuv xml:lang="ru"><seg>Знаешь ли ты столицу Башкортостана?</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Эйе. Башҡортостандың баш ҡалаһы – Өфө.</seg></tuv>
+<tuv xml:lang="ru"><seg>Да. Столица Башкортостана – Уфа.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Ə һин үҙең Башҡортостандың ҡайһы районынан?</seg></tuv>
+<tuv xml:lang="ru"><seg>А ты сам из какого района Башкортостана?</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Минме? Мин Мəлəүез районынан.</seg></tuv>
+<tuv xml:lang="ru"><seg>Я? Я из Мелеузовского района.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Минең ғаиләм</seg></tuv>
+<tuv xml:lang="ru"><seg>Моя семья</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Минең</seg></tuv>
+<tuv xml:lang="ru"><seg>Мой, моя, мое</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Һинең</seg></tuv>
+<tuv xml:lang="ru"><seg>Твой, твоя, твое</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Уның</seg></tuv>
+<tuv xml:lang="ru"><seg>Его, ее</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Беҙҙең</seg></tuv>
+<tuv xml:lang="ru"><seg>Наш, наше</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Һеҙҙең</seg></tuv>
+<tuv xml:lang="ru"><seg>Ваш, ваше</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Уларҙың</seg></tuv>
+<tuv xml:lang="ru"><seg>Их</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>алмаш</seg></tuv>
+<tuv xml:lang="ru"><seg>местоимение</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Алты йыллап үткəндер</seg></tuv>
+<tuv xml:lang="ru"><seg>Прошло примерно шесть лет</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Залда ун-ун биш кеше булғандыр</seg></tuv>
+<tuv xml:lang="ru"><seg>В зале было примерно человек десять-пятнадцать</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>икмəктең яртыһын ал</seg></tuv>
+<tuv xml:lang="ru"><seg>бери половину хлеба</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ике метр ярым</seg></tuv>
+<tuv xml:lang="ru"><seg>два с половиной метра</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>бер метр ярым</seg></tuv>
+<tuv xml:lang="ru"><seg>полтора метра</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>бер ярым</seg></tuv>
+<tuv xml:lang="ru"><seg>полтора</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ярым</seg></tuv>
+<tuv xml:lang="ru"><seg>с половиной</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ярты</seg></tuv>
+<tuv xml:lang="ru"><seg>половина</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>яртыһы</seg></tuv>
+<tuv xml:lang="ru"><seg>половина</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ярты метр</seg></tuv>
+<tuv xml:lang="ru"><seg>полметра</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>сирек</seg></tuv>
+<tuv xml:lang="ru"><seg>четверть</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>сирек метр</seg></tuv>
+<tuv xml:lang="ru"><seg>четверть метра</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Который час?</seg></tuv>
+<tuv xml:lang="ru"><seg>Сəғəт нисə?</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>спорт төрҙəре буйынса</seg></tuv>
+<tuv xml:lang="ru"><seg>по спортивным видам</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>хəҙер</seg></tuv>
+<tuv xml:lang="ru"><seg>сейчас</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>көндөҙгө сəғəт бер</seg></tuv>
+<tuv xml:lang="ru"><seg>час дня</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>көндөҙгө сəғəт ике</seg></tuv>
+<tuv xml:lang="ru"><seg>два часа дня</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>бишенсе ярты</seg></tuv>
+<tuv xml:lang="ru"><seg>половина пятого</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>бишенсе биш минут</seg></tuv>
+<tuv xml:lang="ru"><seg>пять минут пятого</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>һигеҙенсе ун минут</seg></tuv>
+<tuv xml:lang="ru"><seg>десять минут восьмого</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>биш минуттан өс тула</seg></tuv>
+<tuv xml:lang="ru"><seg>без пяти минут три</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ун биш минуттан туғыҙ тула</seg></tuv>
+<tuv xml:lang="ru"><seg>без пятнадцати девять</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>егерме минуттан ун тула</seg></tuv>
+<tuv xml:lang="ru"><seg>без двадцати десять</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>иртəнге сəғəт туғыҙ</seg></tuv>
+<tuv xml:lang="ru"><seg>девять часов утра</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>киске сəғəт ун</seg></tuv>
+<tuv xml:lang="ru"><seg>десять часов вечера</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>тиҙҙəн ун ике (тула)</seg></tuv>
+<tuv xml:lang="ru"><seg>скоро двенадцать</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>бер сəғəттəн</seg></tuv>
+<tuv xml:lang="ru"><seg>через час</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ярты сəғəттəн</seg></tuv>
+<tuv xml:lang="ru"><seg>через полчаса</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ун биш минуттан</seg></tuv>
+<tuv xml:lang="ru"><seg>через пятнадцать минут</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>сəғəт</seg></tuv>
+<tuv xml:lang="ru"><seg>час</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ярты йыл</seg></tuv>
+<tuv xml:lang="ru"><seg>полгода</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>туризм буйынса</seg></tuv>
+<tuv xml:lang="ru"><seg>по туризму</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>туғыҙынсы ун минут</seg></tuv>
+<tuv xml:lang="ru"><seg>десять минут девятого</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>беренсе ярты</seg></tuv>
+<tuv xml:lang="ru"><seg>половина первого</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>биш минуттан ике</seg></tuv>
+<tuv xml:lang="ru"><seg>без пяти два</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>иҫəплəнə</seg></tuv>
+<tuv xml:lang="ru"><seg>насчитывается</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>физкультура-спорт йəмғиəте</seg></tuv>
+<tuv xml:lang="ru"><seg>общество физкультуры и спорта</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>спорт ҡоролмаһы</seg></tuv>
+<tuv xml:lang="ru"><seg>спортивное сооружение</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>шуларҙың</seg></tuv>
+<tuv xml:lang="ru"><seg>из них</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йөҙөү бассейны</seg></tuv>
+<tuv xml:lang="ru"><seg>плавательный бассейн</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>саңғы базалары</seg></tuv>
+<tuv xml:lang="ru"><seg>лыжные базы</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>спорт һарайы</seg></tuv>
+<tuv xml:lang="ru"><seg>дворец спорта</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>еңел атлетика манежы</seg></tuv>
+<tuv xml:lang="ru"><seg>манеж легкой атлетики</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>физкультура-һауыҡтырыу комплексы</seg></tuv>
+<tuv xml:lang="ru"><seg>физкультурно-оздоровительный комплекс</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>файҙаланыуға тапшырылды</seg></tuv>
+<tuv xml:lang="ru"><seg>сдан в пользование</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>етмеш һигеҙ</seg></tuv>
+<tuv xml:lang="ru"><seg>семьдесят восемь</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ун мең ҡырҡ ике</seg></tuv>
+<tuv xml:lang="ru"><seg>десять тысяч сорок два</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ике мең дүрт йөҙ етмеш һигеҙе</seg></tuv>
+<tuv xml:lang="ru"><seg>две тысячи четыреста семьдесят восемь</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>утыҙ туғыҙы</seg></tuv>
+<tuv xml:lang="ru"><seg>тридцать девять</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йөҙ уны</seg></tuv>
+<tuv xml:lang="ru"><seg>сто десять</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ике йөҙ һикһəн өсө</seg></tuv>
+<tuv xml:lang="ru"><seg>двести восемьдесят три</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ете йөҙ ҡырҡ туғыҙы</seg></tuv>
+<tuv xml:lang="ru"><seg>семьсот сорок девять</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>илле һигеҙ</seg></tuv>
+<tuv xml:lang="ru"><seg>пятьдесят восемь</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Аҙнаһына биш йома</seg></tuv>
+<tuv xml:lang="ru"><seg>Семь пятниц на неделе</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Ҡырын эш ҡырҡ йылдан һуң да беленə</seg></tuv>
+<tuv xml:lang="ru"><seg>Сколько веревку ни вить, а концу – быть</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Һуң булһа ла, уң булһын</seg></tuv>
+<tuv xml:lang="ru"><seg>Лучше поздно, чем никогда</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Һəр нəмəнең үҙ ваҡыты</seg></tuv>
+<tuv xml:lang="ru"><seg>Всему свое время</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Бер рəхмəт мең бəлəнəн ҡотҡарыр</seg></tuv>
+<tuv xml:lang="ru"><seg>Одно спасибо спасет от тысячи бед</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Йөҙ һум аҡсаң булғансы, йөҙ дуҫың булһын</seg></tuv>
+<tuv xml:lang="ru"><seg>Не имей сто рублей, а имей сто друзей</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Бер ҡарлуғас яҙ килтермəй</seg></tuv>
+<tuv xml:lang="ru"><seg>Одна ласточка весну не приносит</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Ике тамсы һыу кеүек</seg></tuv>
+<tuv xml:lang="ru"><seg>Как две капли воды</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Дүрт аяҡлы мал да һөрлөгə</seg></tuv>
+<tuv xml:lang="ru"><seg>Скот о четырех ногах, да и тот спотыкается.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ҙур бүлмə</seg></tuv>
+<tuv xml:lang="ru"><seg>большая комната</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəш кеше</seg></tuv>
+<tuv xml:lang="ru"><seg>молодой человек</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>аҡ сəскə</seg></tuv>
+<tuv xml:lang="ru"><seg>белый цветок</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йөн күлдəк</seg></tuv>
+<tuv xml:lang="ru"><seg>шерстяное платье</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ҡышҡы көн</seg></tuv>
+<tuv xml:lang="ru"><seg>зимний день</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>өйҙəге кешелəр</seg></tuv>
+<tuv xml:lang="ru"><seg>люди, находящиеся дома</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>матур күлдəк</seg></tuv>
+<tuv xml:lang="ru"><seg>красивое платье</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>бик матур күлдəк</seg></tuv>
+<tuv xml:lang="ru"><seg>очень красивое платье</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>оло ағайым</seg></tuv>
+<tuv xml:lang="ru"><seg>старший брат</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>иң оло ағайым</seg></tuv>
+<tuv xml:lang="ru"><seg>самый старший брат</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəшел үлəн</seg></tuv>
+<tuv xml:lang="ru"><seg>зеленая трава</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>кирбес йорт</seg></tuv>
+<tuv xml:lang="ru"><seg>кирпичный дом</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>тоҙло</seg></tuv>
+<tuv xml:lang="ru"><seg>соленый</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>һөтлө</seg></tuv>
+<tuv xml:lang="ru"><seg>молочный</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>тоҙһоҙ</seg></tuv>
+<tuv xml:lang="ru"><seg>несоленый</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>һөтһөҙ</seg></tuv>
+<tuv xml:lang="ru"><seg>без молока</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ҡышҡы</seg></tuv>
+<tuv xml:lang="ru"><seg>зимний</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəйге</seg></tuv>
+<tuv xml:lang="ru"><seg>летний</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>яҙғы</seg></tuv>
+<tuv xml:lang="ru"><seg>весенний</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>эшсəн</seg></tuv>
+<tuv xml:lang="ru"><seg>трудолюбивый</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>уйсан</seg></tuv>
+<tuv xml:lang="ru"><seg>задумчивый</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ҡунаҡсыл</seg></tuv>
+<tuv xml:lang="ru"><seg>гостеприемный</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>үпкəсел</seg></tuv>
+<tuv xml:lang="ru"><seg>обидчивый</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>классик</seg></tuv>
+<tuv xml:lang="ru"><seg>классический</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>музыкаль</seg></tuv>
+<tuv xml:lang="ru"><seg>музыкальный</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>актив</seg></tuv>
+<tuv xml:lang="ru"><seg>активный</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Ҡышын бик һыуыҡ була</seg></tuv>
+<tuv xml:lang="ru"><seg>Зимой бывает очень холодно</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Бөгөн ябалаҡлап ҡар яуҙы</seg></tuv>
+<tuv xml:lang="ru"><seg>Сегодня хлопьями шел снег</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Көҙгө көндəр болотло тора</seg></tuv>
+<tuv xml:lang="ru"><seg>Осенние дни бывают пасмурными</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Көнө буйы ямғыр яуҙы</seg></tuv>
+<tuv xml:lang="ru"><seg>Целый день шел дождь</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Ямғырҙан һуң йəйғор ҡалҡты</seg></tuv>
+<tuv xml:lang="ru"><seg>После дождя вышла радуга</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Йəй көндəр ҡояшлы тора</seg></tuv>
+<tuv xml:lang="ru"><seg>Летом дни стоят солнечными</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Яҙын ҡояш нығыраҡ йылыта башлай</seg></tuv>
+<tuv xml:lang="ru"><seg>Весной солнце начинает греть сильнее</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Ҡар ирей, ҡоштар килə</seg></tuv>
+<tuv xml:lang="ru"><seg>Тает снег, прилетают птицы</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Бөгөн көн һəйбəт</seg></tuv>
+<tuv xml:lang="ru"><seg>Сегодня хорошая погода</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Бөгөн көн йылы</seg></tuv>
+<tuv xml:lang="ru"><seg>Сегодня теплая погода</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Көндəр аяҙ тора</seg></tuv>
+<tuv xml:lang="ru"><seg>Дни стоят солнечными</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Бөгөн көн һалҡын</seg></tuv>
+<tuv xml:lang="ru"><seg>Сегодня погода холодная</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Бөгөн көн һалҡынса</seg></tuv>
+<tuv xml:lang="ru"><seg>Сегодня погода прохладная</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Бөгөн көн ҡояшлы, болотһоҙ</seg></tuv>
+<tuv xml:lang="ru"><seg>Сегодня погода солнечная, безоблачная</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Ел юҡ (елһеҙ)</seg></tuv>
+<tuv xml:lang="ru"><seg>Нет ветра (безветренно)</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>төп дəрəжə</seg></tuv>
+<tuv xml:lang="ru"><seg>основная степень</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>бейек тау</seg></tuv>
+<tuv xml:lang="ru"><seg>высокая гора</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>сағыштырыу дəрəжəһе</seg></tuv>
+<tuv xml:lang="ru"><seg>сравнительная степень</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>тау бейегерəк</seg></tuv>
+<tuv xml:lang="ru"><seg>гора выше</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>сəс ҡарараҡ</seg></tuv>
+<tuv xml:lang="ru"><seg>волосы чернее</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>артыҡлыҡ дəрəжəһе</seg></tuv>
+<tuv xml:lang="ru"><seg>превосходная степень</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>бик бейек тау</seg></tuv>
+<tuv xml:lang="ru"><seg>очень высокая гора</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ҡап-ҡара сəс</seg></tuv>
+<tuv xml:lang="ru"><seg>черные-пречерные волосы</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>аҙһытыу дəрəжəһе</seg></tuv>
+<tuv xml:lang="ru"><seg>уменьшительная степень</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>зəңгəрһыу</seg></tuv>
+<tuv xml:lang="ru"><seg>голубоватый</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>күркəмерəк</seg></tuv>
+<tuv xml:lang="ru"><seg>красивее</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>оҙонораҡ</seg></tuv>
+<tuv xml:lang="ru"><seg>длиннее</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>яҡшыраҡ</seg></tuv>
+<tuv xml:lang="ru"><seg>лучше</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ҡып-ҡыҙыл</seg></tuv>
+<tuv xml:lang="ru"><seg>красный-прекрасный</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ҡап- ҡара</seg></tuv>
+<tuv xml:lang="ru"><seg>черный-пречерный</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>еп-еңел</seg></tuv>
+<tuv xml:lang="ru"><seg>очень легкий</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>бейек-бейек тауҙар</seg></tuv>
+<tuv xml:lang="ru"><seg>высокие-высокие горы</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>тəмле-тəмле аштар</seg></tuv>
+<tuv xml:lang="ru"><seg>вкусные-превкусные кушанья</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>иң</seg></tuv>
+<tuv xml:lang="ru"><seg>самый</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>үтə, ифрат</seg></tuv>
+<tuv xml:lang="ru"><seg>чрезмерно, сильно, очень</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>бик</seg></tuv>
+<tuv xml:lang="ru"><seg>очень</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>иң бейек</seg></tuv>
+<tuv xml:lang="ru"><seg>самый высокий</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>үтə ҡыҙыл</seg></tuv>
+<tuv xml:lang="ru"><seg>сильно красный</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>бик сибəр</seg></tuv>
+<tuv xml:lang="ru"><seg>очень красивый</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəшел – йəшкелт</seg></tuv>
+<tuv xml:lang="ru"><seg>зеленоватый</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>һоро – һорғолт</seg></tuv>
+<tuv xml:lang="ru"><seg>сероватый</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>аҡ – аҡһыл</seg></tuv>
+<tuv xml:lang="ru"><seg>беловатый</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ҡаты</seg></tuv>
+<tuv xml:lang="ru"><seg>жгучий</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>һыуыҡ</seg></tuv>
+<tuv xml:lang="ru"><seg>холодный, морозный</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ҡоршалыу</seg></tuv>
+<tuv xml:lang="ru"><seg>натянуться</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>мəғрур</seg></tuv>
+<tuv xml:lang="ru"><seg>величественный</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>күҙ ҡамашыу</seg></tuv>
+<tuv xml:lang="ru"><seg>ослепляться</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ап-аҡ</seg></tuv>
+<tuv xml:lang="ru"><seg>белым-бело</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>һибелгəнме ни</seg></tuv>
+<tuv xml:lang="ru"><seg>словно разбросаны</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Ҡышын тəбиғəттə ниндəй үҙгəрештəр була?</seg></tuv>
+<tuv xml:lang="ru"><seg>Какие изменения происходят в природе зимой?</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ярмаланып – крупинками</seg></tuv>
+<tuv xml:lang="ru"><seg>крупинками</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>шығырҙап ҡатты</seg></tuv>
+<tuv xml:lang="ru"><seg>затвердел</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Ҡышҡы тəбиғəтте тасуирлағыҙ</seg></tuv>
+<tuv xml:lang="ru"><seg>Опишите зимний лес</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Көндəр ҡаты һыуыҡ.</seg></tuv>
+<tuv xml:lang="ru"><seg>Дни жгуче морозные</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Ағастарҙы бəҫ ҡапланы.</seg></tuv>
+<tuv xml:lang="ru"><seg>Иней покрыл деревья</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Тəҙрə быялалары төрлө биҙəктəр менəн ҡоршалды.</seg></tuv>
+<tuv xml:lang="ru"><seg>Стекла окон натянулись разными узорами</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Ярмаланып ятҡан ҡар шығырҙап ҡатты.</seg></tuv>
+<tuv xml:lang="ru"><seg>Лежащий крупинками снег накрепко затвердел.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Беҙ урманға саңғыла йөрөргə барҙыҡ.</seg></tuv>
+<tuv xml:lang="ru"><seg>Мы отправились в лес покататься на лыжах</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Урманда ниндəй матур!</seg></tuv>
+<tuv xml:lang="ru"><seg>Как красиво в лесу!</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Мəғрур имəндəр, ҡарағастар, ҡарағайҙар күҙ ҡамашырлыҡ ап-аҡ.</seg></tuv>
+<tuv xml:lang="ru"><seg>Величественные дубы, лиственницы, сосны ослепительно белым-белы</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Уларға көмөш тəңкə һибелгəнме ни!</seg></tuv>
+<tuv xml:lang="ru"><seg>Будто на них рассыпаны серебряные монеты</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Əйтерһең, беҙҙе йондоҙҙар уратып алған.</seg></tuv>
+<tuv xml:lang="ru"><seg>Кажется, что нас окружили звезды</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəшкелт</seg></tuv>
+<tuv xml:lang="ru"><seg>зеленоватый</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ҡара сəс</seg></tuv>
+<tuv xml:lang="ru"><seg>черные волосы</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>яр буйы</seg></tuv>
+<tuv xml:lang="ru"><seg>берег</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>һыу сəсрəтеп</seg></tuv>
+<tuv xml:lang="ru"><seg>плескаясь водой</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>һəр ҡайһыһы</seg></tuv>
+<tuv xml:lang="ru"><seg>каждый</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>тамағы ас</seg></tuv>
+<tuv xml:lang="ru"><seg>голодный</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>былар эргəһенə</seg></tuv>
+<tuv xml:lang="ru"><seg>возле них</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>килеп туҡтау</seg></tuv>
+<tuv xml:lang="ru"><seg>остановиться</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>берəй нимə</seg></tuv>
+<tuv xml:lang="ru"><seg>что-нибудь</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>бер нимə лə</seg></tuv>
+<tuv xml:lang="ru"><seg>ничего</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ашап алайым əле</seg></tuv>
+<tuv xml:lang="ru"><seg>поем, покушаю</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>бышылдау</seg></tuv>
+<tuv xml:lang="ru"><seg>шептать, шепнуть</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>арыраҡ</seg></tuv>
+<tuv xml:lang="ru"><seg>дальше, подальше</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>крəҫтиəн ҡатыны</seg></tuv>
+<tuv xml:lang="ru"><seg>жена крестьянина</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ҡарағусҡылланыу</seg></tuv>
+<tuv xml:lang="ru"><seg>становиться смуглым</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>хəйер һорау</seg></tuv>
+<tuv xml:lang="ru"><seg>просить милостыню</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>табалмаҫһыңмы икəн</seg></tuv>
+<tuv xml:lang="ru"><seg>не найдешь ли</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>яртыһын</seg></tuv>
+<tuv xml:lang="ru"><seg>половину</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>яуап ҡайтарыу</seg></tuv>
+<tuv xml:lang="ru"><seg>отвечать, ответить</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ихлас күңелдəн</seg></tuv>
+<tuv xml:lang="ru"><seg>от всей души</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>рəхмəт əйтеү</seg></tuv>
+<tuv xml:lang="ru"><seg>поблагодарить</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ҡараның да ҡараһы</seg></tuv>
+<tuv xml:lang="ru"><seg>чернее черного</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ни эшлəргə лə белмəү</seg></tuv>
+<tuv xml:lang="ru"><seg>не знать что и делать</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Джамна йылғаһының яры буйында өс бай ҡатын ултырған.</seg></tuv>
+<tuv xml:lang="ru"><seg>На берегу реки Джамна сидели три богатые женщины.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Улар, һыу сəсрəтеп, һəр ҡайһыһы үҙ ҡулын маҡтаған.</seg></tuv>
+<tuv xml:lang="ru"><seg>Они, плескаясь водой, каждая хвалила свои руки.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>– Минең ҡулдарым матур , - тигəн береһе.</seg></tuv>
+<tuv xml:lang="ru"><seg>– Мои руки красивые, - говорила первая.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>– Минеке лə матур, - тигəн икенсеһе.</seg></tuv>
+<tuv xml:lang="ru"><seg>– И мои тоже, - молвила вторая.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>– Ə минеке һеҙҙең икегеҙҙекенəн дə матурыраҡ, - тигəн өсөнсөһө.</seg></tuv>
+<tuv xml:lang="ru"><seg>– А мои красивее, чем у вас обеих, - сказала третья.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Шул ваҡыт тамағы ас, аҡһаҡ бер ҡарсыҡ былар эргəһенə килеп туҡтаған да уларҙан ашарға берəй нəмə биреүҙəрен һораған.</seg></tuv>
+<tuv xml:lang="ru"><seg>В это время голодная, хромая старушка остановилась возле женщин и попросила дать ей что-нибудь поесть.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Был ҡатындар уға бер нəмə лə бирмəгəндəр, тик һорағандар:</seg></tuv>
+<tuv xml:lang="ru"><seg>Эти женщины ей ничего не дали, лишь спросили:</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>– Ҡарсыҡ, əйт əле, беҙҙең ҡайһыбыҙҙың ҡулы матурыраҡ? – тип һорағандар, ти.</seg></tuv>
+<tuv xml:lang="ru"><seg>– Старуха, скажи-ка, у кого из нас руки красивее всех?</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>– Бер аҙ ашап алайым əле, шунан һуң əйтермен. – тип бышылдаған да ҡарсыҡ үҙ юлына китеп тə барған.</seg></tuv>
+<tuv xml:lang="ru"><seg>– Я немного поем, потом скажу, - пробормотала старушка и отправилась дальше своей дорогой.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Ə был ҡатындарҙан арыраҡ, яр буйында, бер ярлы крəҫтиəн ҡатын ултырған, ти.</seg></tuv>
+<tuv xml:lang="ru"><seg>Недалеко от этих женщин на берегу сидела одна бедная крестьянка</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Ул яланда эшлəп, ҡояшта шул тиклем янған.</seg></tuv>
+<tuv xml:lang="ru"><seg>Поработав в поле, она так сильно загорела.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Уның тəндəре ҡарағусҡылланған.</seg></tuv>
+<tuv xml:lang="ru"><seg>Что ее тело стало смуглым.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Ҡарсыҡ был ҡатындан хəйер һораған: – Мин бик асыҡтым, балам.</seg></tuv>
+<tuv xml:lang="ru"><seg>Старушка попросила у этой женщины милостыню: – Дочка, я очень проголодалась.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Берəй һыныҡ икмəк табалмаҫһыңмы икəн? – тигəн ул.</seg></tuv>
+<tuv xml:lang="ru"><seg>Не найдется ли у тебя кусочек хлеба?</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>– Ал, инəкəй, ал. Минең аҙыраҡ аҙығым бар. Яртыһын ал! – тип яуап ҡайтарған ярлы ҡатын.</seg></tuv>
+<tuv xml:lang="ru"><seg>– Возьми, бабушка, возьми. У меня есть немного еды, бери половину! – ответила ей бедная женщина.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Ҡарсыҡ ашаған, һыу эскəн дə теге ҡатынға ихлас күңелдəн рəхмəт əйткəн.</seg></tuv>
+<tuv xml:lang="ru"><seg>Старушка поела, запила водой и от всей души поблагодарила ее.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Шунан ул ярлы ҡатынды етəклəгəн һəм əлеге өс бай ҡатын эргəһенə алып килгəн.</seg></tuv>
+<tuv xml:lang="ru"><seg>Затем она взяла за руку бедную женщину и подвела к трем богачкам.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>– Бына хəҙер мин кемдең ҡулы матурыраҡ икəнлеген əйтə алам инде. </seg></tuv>
+<tuv xml:lang="ru"><seg>– Вот теперь я отвечу на ваш вопрос, чьи руки красивее всех.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Тамағы ас аҡһаҡ ҡарсыҡты ашатҡан был ярлы ҡатындың ҡулдары ҡап-ҡара, лəкин улар һеҙ аҡһөйəктəрҙең иркə ҡулдарынан мең мəртəбə матурыраҡ! – тигəн ҡарсыҡ бай ҡатындарға.</seg></tuv>
+<tuv xml:lang="ru"><seg>Руки же бедной женщины, накормившие голодную, хромую старуху, черные-пречёрные, но они в тысячу раз красивее ваших аристократических холеных ухоженных рук!</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Шулай тигəн дə ҡарсыҡ үҙ юлына китеп барған, ə бай ҡатындары ғəрлектəренəн ни эшлəргə лə белмəгəндəр.</seg></tuv>
+<tuv xml:lang="ru"><seg>Сразу после этих слов старушка отправилась своей дорогой, а богачки от обиды не знали, что и делать.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>крəҫтиəн ҡатын</seg></tuv>
+<tuv xml:lang="ru"><seg>крестьянка</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>аҡса</seg></tuv>
+<tuv xml:lang="ru"><seg>деньги</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ҡатын</seg></tuv>
+<tuv xml:lang="ru"><seg>жена</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>һабын</seg></tuv>
+<tuv xml:lang="ru"><seg>мыло</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>бəхет</seg></tuv>
+<tuv xml:lang="ru"><seg>счастье</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>аҡыл</seg></tuv>
+<tuv xml:lang="ru"><seg>ум</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>һөт</seg></tuv>
+<tuv xml:lang="ru"><seg>молоко</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ғаилə</seg></tuv>
+<tuv xml:lang="ru"><seg>семья</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>дым</seg></tuv>
+<tuv xml:lang="ru"><seg>влага</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>кеше</seg></tuv>
+<tuv xml:lang="ru"><seg>человек</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ир</seg></tuv>
+<tuv xml:lang="ru"><seg>мужчина</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>һыу</seg></tuv>
+<tuv xml:lang="ru"><seg>вода</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>бала саҡ</seg></tuv>
+<tuv xml:lang="ru"><seg>детство</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>һыйыр</seg></tuv>
+<tuv xml:lang="ru"><seg>корова</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>тупраҡ</seg></tuv>
+<tuv xml:lang="ru"><seg>почва</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>етəксе </seg></tuv>
+<tuv xml:lang="ru"><seg>руководитель</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>хеҙмəткəр</seg></tuv>
+<tuv xml:lang="ru"><seg>сотрудник</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ҡышҡы көн</seg></tuv>
+<tuv xml:lang="ru"><seg>зимний день</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>иртəнге ысыҡ</seg></tuv>
+<tuv xml:lang="ru"><seg>утренняя роса</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>төнгө ел</seg></tuv>
+<tuv xml:lang="ru"><seg>ночной ветер</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ярҙағы боҙ</seg></tuv>
+<tuv xml:lang="ru"><seg>прибрежный лед</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəйге төн</seg></tuv>
+<tuv xml:lang="ru"><seg>летняя ночь</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>көҙгө ай</seg></tuv>
+<tuv xml:lang="ru"><seg>осенний месяц</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>яҙғы сəскə</seg></tuv>
+<tuv xml:lang="ru"><seg>весенний цветок</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>көндөҙгө һөйлəшеү</seg></tuv>
+<tuv xml:lang="ru"><seg>дневной разговор</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ҡыйыҡтағы ҡар</seg></tuv>
+<tuv xml:lang="ru"><seg>снег находящийся на крыше</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>өҫтəлдəге китап</seg></tuv>
+<tuv xml:lang="ru"><seg>книга находящаяся на столе</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>сумкалағы хат</seg></tuv>
+<tuv xml:lang="ru"><seg>письмо находящееся в сумке</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>кисеүҙəге кəмə</seg></tuv>
+<tuv xml:lang="ru"><seg>лодка находящаяся у переправы</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Иҫке һүҙҙəр иҫкермəһен өсөн</seg></tuv>
+<tuv xml:lang="ru"><seg>Чтоб старые слова не устарели</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Мин ҡабатлайым яңынан</seg></tuv>
+<tuv xml:lang="ru"><seg>Я повторяю вновь</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Йəйге селлəлə лə, ҡышҡы елдəрҙə лə</seg></tuv>
+<tuv xml:lang="ru"><seg>И в летний зной, и в зимние метели</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Икмəк, Тыуған ил, Мөхəббəт</seg></tuv>
+<tuv xml:lang="ru"><seg>Хлеб, Родина, Любовь.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Арҡандың – оҙоно, һүҙҙең ҡыҫҡаһы яҡшы.</seg></tuv>
+<tuv xml:lang="ru"><seg>Хорошо веревка длинная, а речь короткая.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Оло байрам, кесе туй.</seg></tuv>
+<tuv xml:lang="ru"><seg>Пир на весь мир.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Мəҡəлле һүҙ – аҡыллы һүҙ.</seg></tuv>
+<tuv xml:lang="ru"><seg>Речь красна пословицей.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Һөйəкһеҙ тел ни һөйлəмəҫ.</seg></tuv>
+<tuv xml:lang="ru"><seg>Язык без костей: что не наболтает.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Ҡылымдарҙың һөйкәлештәре</seg></tuv>
+<tuv xml:lang="ru"><seg>Наклонения глаголов</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Теләк һөйкәлеше</seg></tuv>
+<tuv xml:lang="ru"><seg>Желательное наклонение</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Башкортостан – Рəсəйҙең иң бай республикаларының береһе.</seg></tuv>
+<tuv xml:lang="ru"><seg>Башкортостан – один из богатых республик России.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Сəсеү бөткəс, һабантуй буласаҡ.</seg></tuv>
+<tuv xml:lang="ru"><seg>Когда закончится посев, будет сабантуй.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Тыуған яҡ тəбиғəте иҫ киткес гүзəл.</seg></tuv>
+<tuv xml:lang="ru"><seg>Природа родного края удивительно красива.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Шүлгəнташ мəмерйəһе Бөрйəн районында урынлашҡан.</seg></tuv>
+<tuv xml:lang="ru"><seg>Пещера Шульганташ находится в Бурзянском районе.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Башҡортостандың Йылайыр районында ҡайын, ҡарағай урмандары күп.</seg></tuv>
+<tuv xml:lang="ru"><seg>В Зилаирском районе Башкортостана много березовых, сосновых лесов.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Зəңгəр томандар артынан Ирəндек тауҙары күренə.</seg></tuv>
+<tuv xml:lang="ru"><seg>За синими туманами виднеются Ирандыкские горы.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Азат Айытҡолов – оҫта ҡурайсы.</seg></tuv>
+<tuv xml:lang="ru"><seg>Азат Аиткулов – замечательный кураист.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Тыуған яҡ тəбиғəте бик бай.</seg></tuv>
+<tuv xml:lang="ru"><seg>Природа родного края очень богата.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Башҡортостанда ҡаҙылма байлыҡтар ҙа күп.</seg></tuv>
+<tuv xml:lang="ru"><seg>В Башкортостане также очень много полезных ископаемых.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Боронғо башҡорттар өсөн тыуған яҡ һəм Урал төшөнсəһе айырылғыһыҙ булған.</seg></tuv>
+<tuv xml:lang="ru"><seg>Для древних башкир понятия Родина и Урал были нерасторжимы.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Башҡорттарҙың иң изге уйҙары, йырҙары, көйҙəре, легендалары һəм эпик ҡомартҡылары – ҡобайырҙар Уралға арналған</seg></tuv>
+<tuv xml:lang="ru"><seg>Самые сокровенные мысли, песни, напевы, легенды и эпические сказания – кубаиры башкир посвящены Уралу.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Башҡортостандың иң ҙур йылғалары – Ағиҙел, Ҡариҙел, Һаҡмар, Яйыҡ, Нөгөш, Дим, Йүрүҙəн, Еҙем.</seg></tuv>
+<tuv xml:lang="ru"><seg>Самые большие реки Башкортостана – Агидель (Белая), Караидель (Уфимка), Сакмара, Яик (Урал), Нугуш, Дема, Юрюзань, Зилим.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Һеҙ Башҡортостанға беренсе тапҡыр килдегеҙме?</seg></tuv>
+<tuv xml:lang="ru"><seg>Вы приехали в Башкортостан в первый раз?</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Юҡ. Минең Башҡортостанда булғаным бар. Мин бында икенсе тапҡыр килдем.</seg></tuv>
+<tuv xml:lang="ru"><seg>Нет. Я бывал в Башкортостане. Я приехал сюда второй раз.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Һеҙ беҙҙең республикаға эш буйынса килдегеҙме?</seg></tuv>
+<tuv xml:lang="ru"><seg>Вы приехали в нашу республику по делам?</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Юҡ, мин ике туған ҡустымды күрергə килдем.</seg></tuv>
+<tuv xml:lang="ru"><seg>Нет, я приехал навестить двоюродного брата.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Ул Башҡортостандың төньяҡ- көнсығышында йəшəй.</seg></tuv>
+<tuv xml:lang="ru"><seg>Он живет на северо-востоке Башкортостана.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Ул ҡалала йəшəйме, əллə ауылдамы</seg></tuv>
+<tuv xml:lang="ru"><seg>Он живет в городе или в деревне?</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Ул Салауат районында йəшəй.</seg></tuv>
+<tuv xml:lang="ru"><seg>Он живет в Салаватском районе</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Ə һеҙ үҙегеҙ Башҡортостандың ҡайһы яғынан?</seg></tuv>
+<tuv xml:lang="ru"><seg>А вы сами из какого района Башкортостана?</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Мин Башҡортостандың көньяғынан.</seg></tuv>
+<tuv xml:lang="ru"><seg>Я с юга Башкортостана</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Баймаҡ ҡалаһынан.</seg></tuv>
+<tuv xml:lang="ru"><seg>Из города Баймака.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Ағиҙел</seg></tuv>
+<tuv xml:lang="ru"><seg>Агидель</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Асҡын</seg></tuv>
+<tuv xml:lang="ru"><seg>Аскын</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Баймаҡ</seg></tuv>
+<tuv xml:lang="ru"><seg>Баймак</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Бөрө</seg></tuv>
+<tuv xml:lang="ru"><seg>Бирск</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Белорет</seg></tuv>
+<tuv xml:lang="ru"><seg>Белорецк</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Благовещен</seg></tuv>
+<tuv xml:lang="ru"><seg>Благовещенск</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Бəлəбəй</seg></tuv>
+<tuv xml:lang="ru"><seg>Белебей</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Дүртөйлө</seg></tuv>
+<tuv xml:lang="ru"><seg>Дюртюли</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Дəүлəкəн</seg></tuv>
+<tuv xml:lang="ru"><seg>Давлеканово</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Ишембай</seg></tuv>
+<tuv xml:lang="ru"><seg>Ишимбай</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Күмертау</seg></tuv>
+<tuv xml:lang="ru"><seg>Кумертау</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Мəлəүез</seg></tuv>
+<tuv xml:lang="ru"><seg>Мелеуз</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Нефтекама</seg></tuv>
+<tuv xml:lang="ru"><seg>Нефтекамск</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Октябрьский</seg></tuv>
+<tuv xml:lang="ru"><seg>Октябрьск</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Өфө</seg></tuv>
+<tuv xml:lang="ru"><seg>Уфа</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Салауат</seg></tuv>
+<tuv xml:lang="ru"><seg>Салават</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Сибай</seg></tuv>
+<tuv xml:lang="ru"><seg>Сибай</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Стəрлетамаҡ</seg></tuv>
+<tuv xml:lang="ru"><seg>Стерлитамак</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Туймазы</seg></tuv>
+<tuv xml:lang="ru"><seg>Туймазы</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Учалы</seg></tuv>
+<tuv xml:lang="ru"><seg>Учалы</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Яңауыл</seg></tuv>
+<tuv xml:lang="ru"><seg>Янаул</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>уҡый</seg></tuv>
+<tuv xml:lang="ru"><seg>читает</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>барабыҙ</seg></tuv>
+<tuv xml:lang="ru"><seg>идем</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>килə</seg></tuv>
+<tuv xml:lang="ru"><seg>приходят</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ал</seg></tuv>
+<tuv xml:lang="ru"><seg>возьми</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>алып ҡуй</seg></tuv>
+<tuv xml:lang="ru"><seg>убери</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəшəйем</seg></tuv>
+<tuv xml:lang="ru"><seg>живу</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>оҡшай</seg></tuv>
+<tuv xml:lang="ru"><seg>нравится</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>эшлəйем</seg></tuv>
+<tuv xml:lang="ru"><seg>работаем</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>бешерə</seg></tuv>
+<tuv xml:lang="ru"><seg>варит</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>шыуа</seg></tuv>
+<tuv xml:lang="ru"><seg>катается</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Мин китап уҡыйым</seg></tuv>
+<tuv xml:lang="ru"><seg>Я читаю книгу</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>алдынғы</seg></tuv>
+<tuv xml:lang="ru"><seg>ведущий</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Беҙ паркка барабыҙ.</seg></tuv>
+<tuv xml:lang="ru"><seg>Мы идем в парк.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>үҫешкəн</seg></tuv>
+<tuv xml:lang="ru"><seg>развитый</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Улар беҙгә йыш килəлəр.</seg></tuv>
+<tuv xml:lang="ru"><seg>Они часто приходят к нам.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>тирə-яҡ мөхитте һаҡлау</seg></tuv>
+<tuv xml:lang="ru"><seg>охрана окружающей среды</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Стаканды ал.</seg></tuv>
+<tuv xml:lang="ru"><seg>Возьми стакан.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Был әйберҙәрҙе алып ҡуй.</seg></tuv>
+<tuv xml:lang="ru"><seg>Убери эти вещи.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>тəбиғəт байлыҡтары (ресурстары)</seg></tuv>
+<tuv xml:lang="ru"><seg>природные ресурсы</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Мин ауылда йəшəйем.</seg></tuv>
+<tuv xml:lang="ru"><seg>Я живу в деревне.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Миңə үҙемдең ҡалам бик оҡшай.</seg></tuv>
+<tuv xml:lang="ru"><seg>Мне очень нравится мой город.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Мин банкта эшлəйем.</seg></tuv>
+<tuv xml:lang="ru"><seg>Я работаю в банке.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Әсәйем аш бешерҙе.</seg></tuv>
+<tuv xml:lang="ru"><seg>Мама сварила суп.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Һин саңғыла һәбәт шыуаһың.</seg></tuv>
+<tuv xml:lang="ru"><seg>Ты хорошо катаешься на лыжах.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>экологик именлек (хəүефһеҙлек)</seg></tuv>
+<tuv xml:lang="ru"><seg>экологическая безопасность</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>маҡсатлы программа</seg></tuv>
+<tuv xml:lang="ru"><seg>целевая программа</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>дөйөм байлыҡ</seg></tuv>
+<tuv xml:lang="ru"><seg>общее богатство</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Башҡортостан – Рəсəй Федерацияһының алдынғы һəм үҫешкəн региондарының береһе.</seg></tuv>
+<tuv xml:lang="ru"><seg>Башкортостан – один из ведущих, индустриально развитых регионов Российской Федерации.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Унда тирə-яҡ мөхитте һаҡлау мəсьəлəлəренə, тəбиғəт байлыҡтарын дөрөҫ ҡулланыуға, экологик именлекте тəьмин итеүгə айырыуса иғтибар ителә.</seg></tuv>
+<tuv xml:lang="ru"><seg>Вопросам охраны окружающей среды, рационального использования природных ресурсов, обеспечения экологической безопасности здесь уделяется особое внимание.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>«Башҡортостан Республикаһының тəбиғəт байлыҡтары һəм экологияһы» тигəн маҡсатлы программа уңышлы үтәлә.</seg></tuv>
+<tuv xml:lang="ru"><seg>Успешно выполняется целевая программа "Экология и природные ресурсы Республики Башкортостан”.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Тыуған яғыбыҙҙы, уның байлығы – йəшел урмандарҙы, зəңгəр йылғалар һəм күлдəрҙе, файҙалы үлəндəрҙе һаҡлағыҙ</seg></tuv>
+<tuv xml:lang="ru"><seg>Берегите родной край, его богатство – зеленые леса, голубые реки и озера, полезные травы!</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>тəбиғəт – природа</seg></tuv>
+<tuv xml:lang="ru"><seg/></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>бөйөк</seg></tuv>
+<tuv xml:lang="ru"><seg>великий, величественный</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>тəбиғəт бөйөклөгө</seg></tuv>
+<tuv xml:lang="ru"><seg>величие природы</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>илаһи</seg></tuv>
+<tuv xml:lang="ru"><seg>красивый</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>илаһилыҡ</seg></tuv>
+<tuv xml:lang="ru"><seg>красота</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>сер</seg></tuv>
+<tuv xml:lang="ru"><seg>секрет, тайна</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>иркен далалар</seg></tuv>
+<tuv xml:lang="ru"><seg>просторные, бескрайние степи</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəйелеп ята</seg></tuv>
+<tuv xml:lang="ru"><seg>простирается</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>атаҡлы</seg></tuv>
+<tuv xml:lang="ru"><seg>знаменитый</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ярыша алмай</seg></tuv>
+<tuv xml:lang="ru"><seg>не может сравниться</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ер аҫты ҡатламдары</seg></tuv>
+<tuv xml:lang="ru"><seg>подземные слои</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ҡаҙылма байлыҡтары</seg></tuv>
+<tuv xml:lang="ru"><seg>полезные ископаемые</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>фирүзə</seg></tuv>
+<tuv xml:lang="ru"><seg>бирюза</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>гəрəбə</seg></tuv>
+<tuv xml:lang="ru"><seg>янтарь</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>нефрит</seg></tuv>
+<tuv xml:lang="ru"><seg>нефрит</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>көмөш</seg></tuv>
+<tuv xml:lang="ru"><seg>серебро</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>алмас</seg></tuv>
+<tuv xml:lang="ru"><seg>алмаз</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>гəүһəр</seg></tuv>
+<tuv xml:lang="ru"><seg>бриллиант</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>алтын</seg></tuv>
+<tuv xml:lang="ru"><seg>золото</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>аҡыҡ</seg></tuv>
+<tuv xml:lang="ru"><seg>агат</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>зөбəржəт</seg></tuv>
+<tuv xml:lang="ru"><seg>изумруд</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>һары яҡут</seg></tuv>
+<tuv xml:lang="ru"><seg>топаз</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ынйы</seg></tuv>
+<tuv xml:lang="ru"><seg>жемчуг</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ҡыҙыл яҡут</seg></tuv>
+<tuv xml:lang="ru"><seg>рубин</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>аҡ аҡыҡ</seg></tuv>
+<tuv xml:lang="ru"><seg>опал</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>зəңгəр яҡут</seg></tuv>
+<tuv xml:lang="ru"><seg>сапфир</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəшмə</seg></tuv>
+<tuv xml:lang="ru"><seg>яшма</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>əүəл-əүəлдəн</seg></tuv>
+<tuv xml:lang="ru"><seg>издавна</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>фекер</seg></tuv>
+<tuv xml:lang="ru"><seg>мысль</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>фараз</seg></tuv>
+<tuv xml:lang="ru"><seg>предположение</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йылҡы малын ҡулға өйрəткəндə</seg></tuv>
+<tuv xml:lang="ru"><seg>при приручении коня</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>бөйөр ауырыуы</seg></tuv>
+<tuv xml:lang="ru"><seg>болезни почек</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>булышлыҡ итə</seg></tuv>
+<tuv xml:lang="ru"><seg>способствует</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>шымартылған</seg></tuv>
+<tuv xml:lang="ru"><seg>отшлифованный</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>дуҫлыҡ билдəһе</seg></tuv>
+<tuv xml:lang="ru"><seg>признак дружелюбия</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>күреү һəлəтен яҡшырта</seg></tuv>
+<tuv xml:lang="ru"><seg>улучшает зрение</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>аш һеңдереүҙе яҡшырта</seg></tuv>
+<tuv xml:lang="ru"><seg>улучшает пищеварение</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>халыҡ-ара</seg></tuv>
+<tuv xml:lang="ru"><seg>международный</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>таш бетеү</seg></tuv>
+<tuv xml:lang="ru"><seg>талисман</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>исемлеген раҫланы</seg></tuv>
+<tuv xml:lang="ru"><seg>утвердил список</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>тəҡдим ителде</seg></tuv>
+<tuv xml:lang="ru"><seg>предложено</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>яңыса, йəштəрсə</seg></tuv>
+<tuv xml:lang="ru"><seg>по-новому</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>терелəй</seg></tuv>
+<tuv xml:lang="ru"><seg>живьем</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>аҡсалата</seg></tuv>
+<tuv xml:lang="ru"><seg>деньгами</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>икелəтə</seg></tuv>
+<tuv xml:lang="ru"><seg>вдвойне</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Рәүеш төркөмсәләре</seg></tuv>
+<tuv xml:lang="ru"><seg>Разряды наречий</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ҡышын</seg></tuv>
+<tuv xml:lang="ru"><seg>зимой</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>яҙын</seg></tuv>
+<tuv xml:lang="ru"><seg>весной</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəйен</seg></tuv>
+<tuv xml:lang="ru"><seg>летом</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>көҙөн</seg></tuv>
+<tuv xml:lang="ru"><seg>осенью</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>элек</seg></tuv>
+<tuv xml:lang="ru"><seg>раньше</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>хəҙер</seg></tuv>
+<tuv xml:lang="ru"><seg>сейчас</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>иртəн</seg></tuv>
+<tuv xml:lang="ru"><seg>утром</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>көндөҙ</seg></tuv>
+<tuv xml:lang="ru"><seg>днем</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>кисен</seg></tuv>
+<tuv xml:lang="ru"><seg>вечером</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>минең һымаҡ</seg></tuv>
+<tuv xml:lang="ru"><seg>как я</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>бөгөн</seg></tuv>
+<tuv xml:lang="ru"><seg>сегодня</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>иртəгə</seg></tuv>
+<tuv xml:lang="ru"><seg>завтра</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>кисə</seg></tuv>
+<tuv xml:lang="ru"><seg>вчера</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>быйыл</seg></tuv>
+<tuv xml:lang="ru"><seg>в этом году</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>былтыр</seg></tuv>
+<tuv xml:lang="ru"><seg>в прошлом году</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>алда</seg></tuv>
+<tuv xml:lang="ru"><seg>впереди</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəнəшə, эргəлə</seg></tuv>
+<tuv xml:lang="ru"><seg>рядом</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>уңда</seg></tuv>
+<tuv xml:lang="ru"><seg>справа</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>һулда</seg></tuv>
+<tuv xml:lang="ru"><seg>слева</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>юғары</seg></tuv>
+<tuv xml:lang="ru"><seg>высоко</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>артта</seg></tuv>
+<tuv xml:lang="ru"><seg>сзади</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>өҫтə</seg></tuv>
+<tuv xml:lang="ru"><seg>наверху</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>аҫта</seg></tuv>
+<tuv xml:lang="ru"><seg>внизу</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>аңғармаҫтан</seg></tuv>
+<tuv xml:lang="ru"><seg>нечаянно, невзначай</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>күрəлəтə</seg></tuv>
+<tuv xml:lang="ru"><seg>явно, заведомо</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>тоҡ-томалға</seg></tuv>
+<tuv xml:lang="ru"><seg>ни с того, ни сего</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>юрамал</seg></tuv>
+<tuv xml:lang="ru"><seg>нарочно</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>һыбай</seg></tuv>
+<tuv xml:lang="ru"><seg>верхом</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>аҡсалата</seg></tuv>
+<tuv xml:lang="ru"><seg>деньгами</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəһəт</seg></tuv>
+<tuv xml:lang="ru"><seg>быстро</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>кинəт, ҡапыл</seg></tuv>
+<tuv xml:lang="ru"><seg>внезапно</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>айыуҙай</seg></tuv>
+<tuv xml:lang="ru"><seg>по-медвежьи</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>төлкөлəй</seg></tuv>
+<tuv xml:lang="ru"><seg>по лисьи</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>байрамса</seg></tuv>
+<tuv xml:lang="ru"><seg>по-праздничному</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>кешелəрсə</seg></tuv>
+<tuv xml:lang="ru"><seg>по-человечески</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>аҙ</seg></tuv>
+<tuv xml:lang="ru"><seg>мало</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>икелəтə</seg></tuv>
+<tuv xml:lang="ru"><seg>вдвойне</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>өслəтə</seg></tuv>
+<tuv xml:lang="ru"><seg>втройне</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>берəмлəп</seg></tuv>
+<tuv xml:lang="ru"><seg>по одному</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>бик, үтə</seg></tuv>
+<tuv xml:lang="ru"><seg>очень</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>иң</seg></tuv>
+<tuv xml:lang="ru"><seg>самый</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ғəжəп</seg></tuv>
+<tuv xml:lang="ru"><seg>удивительно</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>бик шəп йөрөй</seg></tuv>
+<tuv xml:lang="ru"><seg>очень быстро ходит</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>үтə матур йырлай</seg></tuv>
+<tuv xml:lang="ru"><seg>очень красиво поет</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ғəжəп һəйбəт һөйлəй</seg></tuv>
+<tuv xml:lang="ru"><seg>удивительно хорошо рассказывает</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ап-аҙ</seg></tuv>
+<tuv xml:lang="ru"><seg>очень мало</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>юп-юғары</seg></tuv>
+<tuv xml:lang="ru"><seg>очень высоко</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Аҙна көндəре</seg></tuv>
+<tuv xml:lang="ru"><seg>Дни недели</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Дүшəмбе</seg></tuv>
+<tuv xml:lang="ru"><seg>Понедельник</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Шишəмбе</seg></tuv>
+<tuv xml:lang="ru"><seg>Вторник</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Шаршамбы</seg></tuv>
+<tuv xml:lang="ru"><seg>Среда</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Кесаҙна</seg></tuv>
+<tuv xml:lang="ru"><seg>Четверг</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Йома</seg></tuv>
+<tuv xml:lang="ru"><seg>Пятница</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Шəмбе</seg></tuv>
+<tuv xml:lang="ru"><seg>Суббота</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Йəкшəмбе</seg></tuv>
+<tuv xml:lang="ru"><seg>Воскресенье</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>айҙар</seg></tuv>
+<tuv xml:lang="ru"><seg>месяцы</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Ғинуар</seg></tuv>
+<tuv xml:lang="ru"><seg>Январь</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Йыл миҙгелдəре</seg></tuv>
+<tuv xml:lang="ru"><seg>Времена года</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Даталар</seg></tuv>
+<tuv xml:lang="ru"><seg>Даты</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>исемлек</seg></tuv>
+<tuv xml:lang="ru"><seg>список, наименование, название</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Бөгөн нисəһе?</seg></tuv>
+<tuv xml:lang="ru"><seg>Какое сегодня число?</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>заманса</seg></tuv>
+<tuv xml:lang="ru"><seg>по-современному</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Бөгөн 13 ноябрь.</seg></tuv>
+<tuv xml:lang="ru"><seg>Сегодня 13 ноября.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ун өсөнсө</seg></tuv>
+<tuv xml:lang="ru"><seg>тринадцатое</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Һеҙ ҡасан тыуғанһығыҙ?</seg></tuv>
+<tuv xml:lang="ru"><seg>Когда вы родились?</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Мин 1968 йылдың 24 декабрендə тыуғанмын.</seg></tuv>
+<tuv xml:lang="ru"><seg>Я родился (лась) 24 декабря 1968 года.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Бөгөн шишəмбе.</seg></tuv>
+<tuv xml:lang="ru"><seg>Сегодня вторник.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>бер мең туғыҙ йөҙ алтмыш һигеҙенсе</seg></tuv>
+<tuv xml:lang="ru"><seg>одна тысяча девятьсот шестьдесят восьмой</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Кисə дүшəмбе булды.</seg></tuv>
+<tuv xml:lang="ru"><seg>Вчера был понедельник.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>егерме дүртенсе</seg></tuv>
+<tuv xml:lang="ru"><seg>двадцать четвертый</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Иртəгə шаршамбы була.</seg></tuv>
+<tuv xml:lang="ru"><seg>Завтра будет среда.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>күп</seg></tuv>
+<tuv xml:lang="ru"><seg>много</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Əкрен барһаң, алыҫ китерһең.</seg></tuv>
+<tuv xml:lang="ru"><seg>Тише едешь, дальше будешь.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>бушлай</seg></tuv>
+<tuv xml:lang="ru"><seg>бесплатно</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Балыҡ башынан серей.</seg></tuv>
+<tuv xml:lang="ru"><seg>Рыба гниет с головы.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəштəрсə</seg></tuv>
+<tuv xml:lang="ru"><seg>по молодежному</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Илдəр</seg></tuv>
+<tuv xml:lang="ru"><seg>Страны</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>БƏЙЛƏҮЕС</seg></tuv>
+<tuv xml:lang="ru"><seg>ПОСЛЕЛОГ</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>СЫҒАНАҠ, УРЫН-ВАҠЫТ КИЛЕШТƏР</seg></tuv>
+<tuv xml:lang="ru"><seg>ИСХОДНЫЙ И МЕСТНО-ВРЕМЕННОЙ ПАДЕЖИ</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>менəн</seg></tuv>
+<tuv xml:lang="ru"><seg>с, совместно с</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>өсөн</seg></tuv>
+<tuv xml:lang="ru"><seg>за, из-за, благодаря, для, ради, чтобы</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>кеүек</seg></tuv>
+<tuv xml:lang="ru"><seg>как</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>төҫлө</seg></tuv>
+<tuv xml:lang="ru"><seg>как, словно</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>арҡыры, аша, үтə</seg></tuv>
+<tuv xml:lang="ru"><seg>через</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>сəбəпле</seg></tuv>
+<tuv xml:lang="ru"><seg>по причине</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>һайын</seg></tuv>
+<tuv xml:lang="ru"><seg>каждый, каждый раз</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>айҡанлы</seg></tuv>
+<tuv xml:lang="ru"><seg>вследствие, в связи</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>турала, тураһында, хаҡында, хаҡта</seg></tuv>
+<tuv xml:lang="ru"><seg>о, про</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>урынына</seg></tuv>
+<tuv xml:lang="ru"><seg>на место, вместо, как</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ошоноң саҡлы (тиклем, һымаҡ)</seg></tuv>
+<tuv xml:lang="ru"><seg>как это</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>минең кеүек (һымаҡ)</seg></tuv>
+<tuv xml:lang="ru"><seg>как я</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>таба</seg></tuv>
+<tuv xml:lang="ru"><seg>к, по, по направлению</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>тикле</seg></tuv>
+<tuv xml:lang="ru"><seg>до</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>күрə</seg></tuv>
+<tuv xml:lang="ru"><seg>по причине, так как, поэтому, ввиду, из-за того что</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ҡаршы</seg></tuv>
+<tuv xml:lang="ru"><seg>напротив, к</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ҡарамаҫтан</seg></tuv>
+<tuv xml:lang="ru"><seg>несмотря на, вопреки</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ҡарағанда</seg></tuv>
+<tuv xml:lang="ru"><seg>по сравнению</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>бəйле</seg></tuv>
+<tuv xml:lang="ru"><seg>в связи</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>мəктəпкə тиклем</seg></tuv>
+<tuv xml:lang="ru"><seg>до школы</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>беҙгə табан</seg></tuv>
+<tuv xml:lang="ru"><seg>к нам, в нашу сторону</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>бирле</seg></tuv>
+<tuv xml:lang="ru"><seg>с, с тех пор, с момента, начиная с</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>башҡа</seg></tuv>
+<tuv xml:lang="ru"><seg>кроме</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>бүтəн</seg></tuv>
+<tuv xml:lang="ru"><seg>кроме, без, помимо, за исключением</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>һуң, аҙаҡ</seg></tuv>
+<tuv xml:lang="ru"><seg>с, после, затем, потом</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>тыш</seg></tuv>
+<tuv xml:lang="ru"><seg>кроме</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>элек, алда, əүəл</seg></tuv>
+<tuv xml:lang="ru"><seg>до</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>дəрестəрҙəн һуң</seg></tuv>
+<tuv xml:lang="ru"><seg>после уроков</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ошонан тыш</seg></tuv>
+<tuv xml:lang="ru"><seg>кроме этого</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>шунан бирле</seg></tuv>
+<tuv xml:lang="ru"><seg>с тех пор</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>минəн башҡа</seg></tuv>
+<tuv xml:lang="ru"><seg>кроме меня</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>минең яныма кил</seg></tuv>
+<tuv xml:lang="ru"><seg>подойди ко мне</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>һинең яныңда торһон</seg></tuv>
+<tuv xml:lang="ru"><seg>пусть стоит около тебя</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>уның янынан кит</seg></tuv>
+<tuv xml:lang="ru"><seg>отойди от него</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Беҙ театрға атайым менəн барҙыҡ.</seg></tuv>
+<tuv xml:lang="ru"><seg>Мы с отцом ходили в театр</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Һинəн башҡа йəшəй алмайым.</seg></tuv>
+<tuv xml:lang="ru"><seg>Без тебя не могу жить.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Туҡталышҡа тиклем беҙҙе əсəйем оҙатты.</seg></tuv>
+<tuv xml:lang="ru"><seg>До остановки нас проводила мама.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Ауырыу сəбəпле мин эшкə бара алманым.</seg></tuv>
+<tuv xml:lang="ru"><seg>По причине болезни я не смог пойти на работу.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Алма груша кеүек йəшел.</seg></tuv>
+<tuv xml:lang="ru"><seg>Яблоко, как груша, зеленое.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Мин урам буйлап киттем.</seg></tuv>
+<tuv xml:lang="ru"><seg>Я пошел по улице.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Был хəбəрҙе һинəн башҡа кеше белмəй.</seg></tuv>
+<tuv xml:lang="ru"><seg>Эту новость, кроме тебя, никто не знает</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Ҡыштан бирле ҡайтҡаны юҡ.</seg></tuv>
+<tuv xml:lang="ru"><seg>С зимы он не приезжал.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Ул сəскə кеүек матур.</seg></tuv>
+<tuv xml:lang="ru"><seg>Она красива, как цветок.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Һин ҡəлəм менəн яҙ.</seg></tuv>
+<tuv xml:lang="ru"><seg>Ты пиши карандашом.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Ағайым самолет менəн осто.</seg></tuv>
+<tuv xml:lang="ru"><seg>Брат полетел на самолете.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Һинең өсөн мин шатмын.</seg></tuv>
+<tuv xml:lang="ru"><seg>За тебя я рад.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Был теманы уҡыуға ҡарамаҫтан, мин яуап бирə алманым.</seg></tuv>
+<tuv xml:lang="ru"><seg>Несмотря на то что изучал эту тему, я не смог ответить.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Урам аша магазин бар.</seg></tuv>
+<tuv xml:lang="ru"><seg>Через улицу находится магазин.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Яҡшы һүҙең өсөн рəхмəт.</seg></tuv>
+<tuv xml:lang="ru"><seg>За доброе слово спасибо.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>урталай</seg></tuv>
+<tuv xml:lang="ru"><seg>пополам</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ара</seg></tuv>
+<tuv xml:lang="ru"><seg>промежуток</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>урта</seg></tuv>
+<tuv xml:lang="ru"><seg>середина</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>өҫ</seg></tuv>
+<tuv xml:lang="ru"><seg>верх</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>аҫ</seg></tuv>
+<tuv xml:lang="ru"><seg>низ</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>эсендə</seg></tuv>
+<tuv xml:lang="ru"><seg>внутри, в</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>эсенəн</seg></tuv>
+<tuv xml:lang="ru"><seg>из</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>алдына</seg></tuv>
+<tuv xml:lang="ru"><seg>перед</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>алдынан</seg></tuv>
+<tuv xml:lang="ru"><seg>спереди</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>янына</seg></tuv>
+<tuv xml:lang="ru"><seg>от, мимо</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>янында</seg></tuv>
+<tuv xml:lang="ru"><seg>около</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>аҫтына</seg></tuv>
+<tuv xml:lang="ru"><seg>под</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>артынан</seg></tuv>
+<tuv xml:lang="ru"><seg>за, из-за</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>артында</seg></tuv>
+<tuv xml:lang="ru"><seg>за</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ҡаршыһында</seg></tuv>
+<tuv xml:lang="ru"><seg>напротив, перед</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>урамдан</seg></tuv>
+<tuv xml:lang="ru"><seg>с улицы</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ҡыҙҙан</seg></tuv>
+<tuv xml:lang="ru"><seg>от девушки</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ҡаланан</seg></tuv>
+<tuv xml:lang="ru"><seg>из города</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>таштан</seg></tuv>
+<tuv xml:lang="ru"><seg>из камня</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>һеңлемдəн</seg></tuv>
+<tuv xml:lang="ru"><seg>от своей сестры</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>беҙҙəн</seg></tuv>
+<tuv xml:lang="ru"><seg>от нас</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>һинəн</seg></tuv>
+<tuv xml:lang="ru"><seg>от тебя</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>иптəштəн</seg></tuv>
+<tuv xml:lang="ru"><seg>от товарища</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>урмандан</seg></tuv>
+<tuv xml:lang="ru"><seg>из леса</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>һарайҙан</seg></tuv>
+<tuv xml:lang="ru"><seg>из сарая</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>даланан</seg></tuv>
+<tuv xml:lang="ru"><seg>из степи</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>сынаяҡтан</seg></tuv>
+<tuv xml:lang="ru"><seg>из чашки</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Мəлəүездəн</seg></tuv>
+<tuv xml:lang="ru"><seg>из Мелеуза</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Өфөнəн</seg></tuv>
+<tuv xml:lang="ru"><seg>из Уфы</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>сəстəн</seg></tuv>
+<tuv xml:lang="ru"><seg>из волос (с волос)</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Һеҙ ҡайҙан килдегеҙ?</seg></tuv>
+<tuv xml:lang="ru"><seg>Вы откуда приехали?</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Тəүлек</seg></tuv>
+<tuv xml:lang="ru"><seg>Сутки</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Һинең Һиндостанға барғаның бармы?</seg></tuv>
+<tuv xml:lang="ru"><seg>Ты ездил в Индию?</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>өҫтəл аҫтына һал</seg></tuv>
+<tuv xml:lang="ru"><seg>положи под стол</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Япониянан килдеңме?</seg></tuv>
+<tuv xml:lang="ru"><seg>Ты приехал из Японии?</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>өҫтəл аҫтынан ал</seg></tuv>
+<tuv xml:lang="ru"><seg>возьми из-под стола</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Башҡорт дəүлəт университетына ҡайҙан ҡунаҡтар килгəн?</seg></tuv>
+<tuv xml:lang="ru"><seg>Откуда приехали гости в Башкирский государственный университет?</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>өҫтəл аҫтында ята</seg></tuv>
+<tuv xml:lang="ru"><seg>лежит под столом</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Ул эш сəфəре менəн Англияға барғанмы?</seg></tuv>
+<tuv xml:lang="ru"><seg>Он ездил с деловым визитом в Англию?</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>мəктəпкə ҡаршы йəшəй</seg></tuv>
+<tuv xml:lang="ru"><seg>живет напротив школы</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>шкаф ҡаршыһында тора</seg></tuv>
+<tuv xml:lang="ru"><seg>стоит напротив шкафа</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>кемдəн?</seg></tuv>
+<tuv xml:lang="ru"><seg>от кого?</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>нимəнəн?</seg></tuv>
+<tuv xml:lang="ru"><seg>от чего?</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ҡайҙан?</seg></tuv>
+<tuv xml:lang="ru"><seg>откуда?</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Ишембайҙан</seg></tuv>
+<tuv xml:lang="ru"><seg>из Ишимбая</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Американан</seg></tuv>
+<tuv xml:lang="ru"><seg>из Америки</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Төркиəнəн</seg></tuv>
+<tuv xml:lang="ru"><seg>из Турции</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>шкаф ҡаршыһында эленеп тора</seg></tuv>
+<tuv xml:lang="ru"><seg>висит перед шкафом</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Ҡазандан</seg></tuv>
+<tuv xml:lang="ru"><seg>из Казани</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ауылдан</seg></tuv>
+<tuv xml:lang="ru"><seg>из деревни</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ҡаланан</seg></tuv>
+<tuv xml:lang="ru"><seg>из города</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>өҫтəл өҫтөндə тора</seg></tuv>
+<tuv xml:lang="ru"><seg>стоит на столе</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>юл уртаһынан барҙы</seg></tuv>
+<tuv xml:lang="ru"><seg>шел по середине дороги</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>юл уртаһында</seg></tuv>
+<tuv xml:lang="ru"><seg>в середине дороги</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>өй эргəһендə</seg></tuv>
+<tuv xml:lang="ru"><seg>у (около, возле) дома</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>өй эсендə</seg></tuv>
+<tuv xml:lang="ru"><seg>внутри дома; дома, в доме</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>урман эсендə</seg></tuv>
+<tuv xml:lang="ru"><seg>в лесу</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>өй янынан</seg></tuv>
+<tuv xml:lang="ru"><seg>мимо дома</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>өй янында</seg></tuv>
+<tuv xml:lang="ru"><seg>около дома</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>студенттар араһында</seg></tuv>
+<tuv xml:lang="ru"><seg>среди студентов</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Ҡыҙ ағас артына йəшенде.</seg></tuv>
+<tuv xml:lang="ru"><seg>Девочка спряталась за дерево.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Малай өй эсенəн сыҡты.</seg></tuv>
+<tuv xml:lang="ru"><seg>Мальчик вышел из дома.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Əсəйем ҡала уртаһында йəшəргə телəмəй.</seg></tuv>
+<tuv xml:lang="ru"><seg>Мама не хочет жить в центре города.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Өлəсəйем өҫтəл өҫтөнəн (өҫтəлдəн) икмəкте алып ҡуйҙы.</seg></tuv>
+<tuv xml:lang="ru"><seg>Бабушка убрала хлеб со стола.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Улар өҫтəл артына ултырҙылар.</seg></tuv>
+<tuv xml:lang="ru"><seg>Они сели за стол.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Китаптарҙы өҫтəл өҫтөнəн алып ҡуй.</seg></tuv>
+<tuv xml:lang="ru"><seg>Убери книги со стола.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Баш өҫтөндə ҡояш балҡый.</seg></tuv>
+<tuv xml:lang="ru"><seg>Над головой светит солнце.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Банк был йорт ҡаршыһында урынлашҡан.</seg></tuv>
+<tuv xml:lang="ru"><seg>Банк находится напротив этого дома.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Ваза өҫтəл уртаһында ултыра.</seg></tuv>
+<tuv xml:lang="ru"><seg>Ваза стоит на середине стола.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Ручка өҫтəл аҫтына тəгəрəне.</seg></tuv>
+<tuv xml:lang="ru"><seg>Ручка покатилась под стол.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>буйлап</seg></tuv>
+<tuv xml:lang="ru"><seg>по</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>буйы</seg></tuv>
+<tuv xml:lang="ru"><seg>у</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>буйына</seg></tuv>
+<tuv xml:lang="ru"><seg>вдоль</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>буйынса</seg></tuv>
+<tuv xml:lang="ru"><seg>в течение</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>шикелле</seg></tuv>
+<tuv xml:lang="ru"><seg>словно</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>һымаҡ</seg></tuv>
+<tuv xml:lang="ru"><seg>подобно</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>арҡаһында,</seg></tuv>
+<tuv xml:lang="ru"><seg>из-за</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>тиклем</seg></tuv>
+<tuv xml:lang="ru"><seg>до, вплоть до</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>хəтле</seg></tuv>
+<tuv xml:lang="ru"><seg>до, вплоть до</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>хəтлем</seg></tuv>
+<tuv xml:lang="ru"><seg>до, вплоть до</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ҡəҙəр</seg></tuv>
+<tuv xml:lang="ru"><seg>до, вплоть до</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>саҡлы</seg></tuv>
+<tuv xml:lang="ru"><seg>до, вплоть до</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>табан</seg></tuv>
+<tuv xml:lang="ru"><seg>в направлении</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ҡарай</seg></tuv>
+<tuv xml:lang="ru"><seg>в сторону</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>СЛОЖНЫЕ СЛОВА</seg></tuv>
+<tuv xml:lang="ru"><seg>ҠУШМА ҺҮҘҘƏР</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Һеҙ ниндəй транспорт менән барырға телəр инегеҙ?</seg></tuv>
+<tuv xml:lang="ru"><seg>Каким транспортом вы хотели бы ехать?</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Ғаилəлелəр өсөн путевкалар бармы?</seg></tuv>
+<tuv xml:lang="ru"><seg>Есть ли у вас семейные путевки?</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Күрһəтелгəн маршрут буйынса төркөм ҡасан йыйыла?</seg></tuv>
+<tuv xml:lang="ru"><seg>Когда собирается группа по указанному маршруту?</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Сəйəхəттəр һəм экскурсиялар бюроһы автовокзал эргəһендə урынлашҡан.</seg></tuv>
+<tuv xml:lang="ru"><seg>Бюро путешествий и экскурсий находится возле автовокзала.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Йəй көнө ғаилəбеҙ менəн Ҡара диңгеҙгə ял итергə барабыҙ.</seg></tuv>
+<tuv xml:lang="ru"><seg>Летом со всей семьей едем отдыхать на Черное море.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Индия үҙенең фильмдары менəн билдəле.</seg></tuv>
+<tuv xml:lang="ru"><seg>Индия славится своими фильмами.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>һауа баҫымы</seg></tuv>
+<tuv xml:lang="ru"><seg>давление воздуха</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Париж - мода буйынса танылыу алған ҡала.</seg></tuv>
+<tuv xml:lang="ru"><seg>Париж – славный город по моде</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Башҡортостан Республикаһы</seg></tuv>
+<tuv xml:lang="ru"><seg>Республика Башкортостан</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Башҡорт дəүлəт университеты</seg></tuv>
+<tuv xml:lang="ru"><seg>Башкирский государственный университет</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Заһир Исмəғилев исемендəге Өфө сəнғəт академияһы</seg></tuv>
+<tuv xml:lang="ru"><seg>Уфимская государственная академия имени Загира Исмагилова</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Стəрлетамаҡ башҡорт дəүлəт драма театры</seg></tuv>
+<tuv xml:lang="ru"><seg>Стерлитамакский башкирский государственный драматический театр</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Хөкүмəт йорто</seg></tuv>
+<tuv xml:lang="ru"><seg>Дом Правительства</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Мəғариф министрлығы</seg></tuv>
+<tuv xml:lang="ru"><seg>Министерство образования</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Өфө – Һамар автомагистрале</seg></tuv>
+<tuv xml:lang="ru"><seg>Автомагистраль Уфа – Самара</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Өфө – Мəскəү поезы</seg></tuv>
+<tuv xml:lang="ru"><seg>поезд Уфа – Москва</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Үрге Йəркəй ҡасабаһы</seg></tuv>
+<tuv xml:lang="ru"><seg>поселок Верхнеяркеево</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>«Красноусол» шифаханаһы дəүлəт унитар предприятиеһы</seg></tuv>
+<tuv xml:lang="ru"><seg>Государственное унитарное предприятие “Санаторий Красноусольский”</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>«Белорет металлургия комбинаты» асыҡ акционерҙар йəмғиəте</seg></tuv>
+<tuv xml:lang="ru"><seg>Открытое акционерное общество “Белорецкий металлургический комбинат”</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>«Башҡортостан» телерадиокомпанияһы</seg></tuv>
+<tuv xml:lang="ru"><seg>Телерадиокомпания “Башкортостан”</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>«Геофизика» фəнни-етештереү фирмаһы</seg></tuv>
+<tuv xml:lang="ru"><seg>научно-производственная фирма “Геофизика”</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>«Гарант» яуаплылығы сиклəнгəн йəмғиəте</seg></tuv>
+<tuv xml:lang="ru"><seg>Общество ограниченной ответственности “Гарант”</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Өфө ҡалаһы ҡала округы</seg></tuv>
+<tuv xml:lang="ru"><seg>Городской округ город Уфа</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Миəкə районы муниципаль район Советы</seg></tuv>
+<tuv xml:lang="ru"><seg>Муниципальный районный Совет Миякинского района</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Салауат Юлаев ордены</seg></tuv>
+<tuv xml:lang="ru"><seg>орден Салавата Юлаева</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>«Əсəлек даны» миҙалы</seg></tuv>
+<tuv xml:lang="ru"><seg>медаль “Материнская слава”</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Башҡорт дəүлəт опера һəм балет театры</seg></tuv>
+<tuv xml:lang="ru"><seg>Башкирский государственный театр оперы и балета</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>«Ағиҙел» ҡунаҡханаһы</seg></tuv>
+<tuv xml:lang="ru"><seg>гостиница “Агидель”</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Башҡортостан Хөкүмəте</seg></tuv>
+<tuv xml:lang="ru"><seg>Правительство Башкортостана</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Хөкүмəт ҡарамағындағы</seg></tuv>
+<tuv xml:lang="ru"><seg>при Правительстве</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>эшҡыуарлыҡ</seg></tuv>
+<tuv xml:lang="ru"><seg>предпринимательство</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>сираттағы ултырыш</seg></tuv>
+<tuv xml:lang="ru"><seg>очередное заседание</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ҡала хакимиəте башлығы</seg></tuv>
+<tuv xml:lang="ru"><seg>глава администрации города</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>тикшерелгəн мəсьəлəлəр</seg></tuv>
+<tuv xml:lang="ru"><seg>рассмотренные (обсужденные) вопросы</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ҡарарҙар ҡабул ителде</seg></tuv>
+<tuv xml:lang="ru"><seg>приняты решения</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Федераль йыйылыш – Федеральное собрание</seg></tuv>
+<tuv xml:lang="ru"><seg>Федеральное собрание</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Мөрəжəғəтнəмəһендə</seg></tuv>
+<tuv xml:lang="ru"><seg>в Обращении</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>тергеҙеү</seg></tuv>
+<tuv xml:lang="ru"><seg>сохранение, возрождение</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>мəғлүмəт</seg></tuv>
+<tuv xml:lang="ru"><seg>информация</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>мəҙəниəт</seg></tuv>
+<tuv xml:lang="ru"><seg>культура</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>билəй</seg></tuv>
+<tuv xml:lang="ru"><seg>занимает</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ҡарайһың</seg></tuv>
+<tuv xml:lang="ru"><seg>смотришь</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ҡарайһың, ҡарап туя алмайһың</seg></tuv>
+<tuv xml:lang="ru"><seg>смотришь – не насмотришься</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>тыңлайһың</seg></tuv>
+<tuv xml:lang="ru"><seg>слушаешь</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>тыңлайһың, тыңлап туя алмайһың</seg></tuv>
+<tuv xml:lang="ru"><seg>слушаешь – не наслушаешься</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>сутылдаша</seg></tuv>
+<tuv xml:lang="ru"><seg>щебещут, поют</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>кəкүк саҡыра</seg></tuv>
+<tuv xml:lang="ru"><seg>кукушка кукует</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>өкө өкөлдəй</seg></tuv>
+<tuv xml:lang="ru"><seg>сова ухает</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>һайыҫҡандар шыҡырлай</seg></tuv>
+<tuv xml:lang="ru"><seg>сороки трещат</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>сəскə еҫе аңҡый</seg></tuv>
+<tuv xml:lang="ru"><seg>цветы благоухают</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>бишек йыры</seg></tuv>
+<tuv xml:lang="ru"><seg>колыбельная песня</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>наҙлау теле</seg></tuv>
+<tuv xml:lang="ru"><seg>язык ласки</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>тарих теле</seg></tuv>
+<tuv xml:lang="ru"><seg>язык истории</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>мəҙхиəлəр</seg></tuv>
+<tuv xml:lang="ru"><seg>оды</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>шишмəлəр моңо</seg></tuv>
+<tuv xml:lang="ru"><seg>мелодия родника</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>əйтə белеү</seg></tuv>
+<tuv xml:lang="ru"><seg>умение говорить</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>тоя белеү</seg></tuv>
+<tuv xml:lang="ru"><seg>умение чувствовать</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>төйəк</seg></tuv>
+<tuv xml:lang="ru"><seg>родная сторона</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>бəхет</seg></tuv>
+<tuv xml:lang="ru"><seg>счастье</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>МОДАЛЬНЫЕ СЛОВА</seg></tuv>
+<tuv xml:lang="ru"><seg>МӨНƏСƏБƏТ ҺҮҘҘƏР</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>эйе</seg></tuv>
+<tuv xml:lang="ru"><seg>да</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>бар</seg></tuv>
+<tuv xml:lang="ru"><seg>есть</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>юҡ</seg></tuv>
+<tuv xml:lang="ru"><seg>нет</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>əлбиттə</seg></tuv>
+<tuv xml:lang="ru"><seg>конечно</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ысынлап та</seg></tuv>
+<tuv xml:lang="ru"><seg>действительно, на самом деле</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>дөрөҫ</seg></tuv>
+<tuv xml:lang="ru"><seg>верно</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>түгел</seg></tuv>
+<tuv xml:lang="ru"><seg>нет, не</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ярай</seg></tuv>
+<tuv xml:lang="ru"><seg>ладно</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>яҡшы</seg></tuv>
+<tuv xml:lang="ru"><seg>ладно</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>һис шикһеҙ</seg></tuv>
+<tuv xml:lang="ru"><seg>без сомнения, несомненно</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>һис һүҙһеҙ</seg></tuv>
+<tuv xml:lang="ru"><seg>без сомнения, несомненно</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Ысынлап та, кемдер килə.</seg></tuv>
+<tuv xml:lang="ru"><seg>Действительно, кто-то идет.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>мөмкин</seg></tuv>
+<tuv xml:lang="ru"><seg>можно</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ярай</seg></tuv>
+<tuv xml:lang="ru"><seg>можно</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Бөгөн китергə ярай.</seg></tuv>
+<tuv xml:lang="ru"><seg>Сегодня можно уехать.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>кəрəк</seg></tuv>
+<tuv xml:lang="ru"><seg>надо, нужно, необходимо</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>тейеш</seg></tuv>
+<tuv xml:lang="ru"><seg>должен, должно, необходимо</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Бөгөн барып етергə кəрəк.</seg></tuv>
+<tuv xml:lang="ru"><seg>Необходимо сегодня доехать.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>аҡрынлап</seg></tuv>
+<tuv xml:lang="ru"><seg>медленно</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>зинһар</seg></tuv>
+<tuv xml:lang="ru"><seg>пожалуйста</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>рəхим итегеҙ</seg></tuv>
+<tuv xml:lang="ru"><seg>добро пожаловать, извольте, пожалуйста</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ғəфү итегеҙ</seg></tuv>
+<tuv xml:lang="ru"><seg>извините</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ҡуй, ҡуйығыҙ </seg></tuv>
+<tuv xml:lang="ru"><seg>оставь, оставьте</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Ғəфү итегеҙ, миңə китергə яраймы?</seg></tuv>
+<tuv xml:lang="ru"><seg>Извините, можно мне уйти?</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>төшə бара</seg></tuv>
+<tuv xml:lang="ru"><seg>опускается</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ахырыһы</seg></tuv>
+<tuv xml:lang="ru"><seg>кажется</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>буғай</seg></tuv>
+<tuv xml:lang="ru"><seg>видимо, вроде</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>бəлки</seg></tuv>
+<tuv xml:lang="ru"><seg>может быть, возможно, вероятно, пожалуй</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ихтимал</seg></tuv>
+<tuv xml:lang="ru"><seg>возможно, вероятно</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>күрəһең</seg></tuv>
+<tuv xml:lang="ru"><seg>очевидно</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>булыуы мөмкин</seg></tuv>
+<tuv xml:lang="ru"><seg>возможно, допустимо</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Бəлки, бөгөн осрашырбыҙ.</seg></tuv>
+<tuv xml:lang="ru"><seg>Возможно, сегодня встретимся.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>шикелле</seg></tuv>
+<tuv xml:lang="ru"><seg>видимо, вроде</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Һеҙҙе тыуған көнөгөҙ менән ҡотлайым</seg></tuv>
+<tuv xml:lang="ru"><seg>Поздравляю Вас с днем рождения</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Һеҙҙе Яңы йыл менән ҡотлайым</seg></tuv>
+<tuv xml:lang="ru"><seg>Поздравляю Вас с Новым годом</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Һеҙҙе байрам менән ҡотлайым</seg></tuv>
+<tuv xml:lang="ru"><seg>Поздравляю Вас с праздником</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>өҙгөлəнгəн аҡһыл болоттар</seg></tuv>
+<tuv xml:lang="ru"><seg>рваные белесые облака</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ҡаурый һымаҡ</seg></tuv>
+<tuv xml:lang="ru"><seg>как перья</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>елгə ҡаршы</seg></tuv>
+<tuv xml:lang="ru"><seg>против ветра</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ни ҡəҙəр ..., шул ҡəҙəр</seg></tuv>
+<tuv xml:lang="ru"><seg>сколько ..., столько</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>көтөргə кəрəк</seg></tuv>
+<tuv xml:lang="ru"><seg>надо ожидать</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>əүерелə</seg></tuv>
+<tuv xml:lang="ru"><seg>превращается</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>һимеҙ һум ит</seg></tuv>
+<tuv xml:lang="ru"><seg>жирное мясо</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йылҡы ите</seg></tuv>
+<tuv xml:lang="ru"><seg>конина</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ваҡлап турағыҙ</seg></tuv>
+<tuv xml:lang="ru"><seg>мелко</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>аралаштырығыҙ</seg></tuv>
+<tuv xml:lang="ru"><seg>перемешайте</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ҡуйып тороғоҙ</seg></tuv>
+<tuv xml:lang="ru"><seg>поставьте на время</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>эсəк</seg></tuv>
+<tuv xml:lang="ru"><seg>кишка</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>яҡшылап бəйлəп</seg></tuv>
+<tuv xml:lang="ru"><seg>хорошо завязывая</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>эс майы</seg></tuv>
+<tuv xml:lang="ru"><seg>внутреннее сало</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>тултырығыҙ</seg></tuv>
+<tuv xml:lang="ru"><seg>наполняйте</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>бəйлəгеҙ</seg></tuv>
+<tuv xml:lang="ru"><seg>завяжите</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>талғын утта</seg></tuv>
+<tuv xml:lang="ru"><seg>на медленном огне</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>сит телдəн дəрес алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>брать уроки иностранного языка</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>брать ванну</seg></tuv>
+<tuv xml:lang="ru"><seg>ванна нку</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>һалым алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>взимать налоги</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ҡиммəт алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>брать дорого</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>өйгə эш алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>брать работу на дом</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>үҙең менəн мылтыҡ алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>брать с собой ружье</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ҡаланы һөжүм менəн алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>брать город приступом</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>əсирҙəр алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>брать пленных</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>айыу алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>брать медведя</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>уҡырға алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>принимать на учебу</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>эшкə алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>принимать на работу</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>армияға алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>призвать в армию</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>һалдатҡа алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>брать в солдаты</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>бүлəк алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>получить подарок</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>файҙа алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>получать выгоду</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>мəғлүмəт алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>получить информацию</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>хəбəр алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>получить известие</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>заказ алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>принять заказ</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>заказ алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>получить заказ</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>яуап алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>получит ответ</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>яуап алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>допрашивать</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>хат алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>получить письмо</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>лəззəт алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>испытывать удовольствие</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>лəззəт алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>получить удовольствие</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>икелəнеү тойғоһо алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>испытать чувство сомнения</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ҡурҡыу алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>испытывать страх</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>исем алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>приобрести имя</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>доктор дəрəжəһе алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>получить степень доктора</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>рəхмəт алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>получить благодарность</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>белем алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>приобретать знания</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>тəрбиə алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>получить воспитание</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ирек алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>получить свободу</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>яра алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>получить рану</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йоҡоно алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>лишить сна</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>көстө алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>отнять силу</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>көстө алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>лишить силы</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>көстө алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>обессилить</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ваҡытты алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>отнять время</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>һаулыҡты алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>отнимать здоровье</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>эштəн алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>освободить от работы</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>өҫтəн яуаплылыҡты алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>снять всякую ответственность</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>директор урынын алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>занимать пост директора</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>түрҙəн урын алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>занять почетное место</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>беренсе урын алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>занять первое место</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>күңелгə яҡын алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>принимать близко к сердцу</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>иғтибарға алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>принимать во внимание</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>күтəрə алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>быть в состоянии</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>аҡса биреү</seg></tuv>
+<tuv xml:lang="ru"><seg>дать деньги</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>бүлəк биреү</seg></tuv>
+<tuv xml:lang="ru"><seg>преподнести подарок</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>китап биреү</seg></tuv>
+<tuv xml:lang="ru"><seg>дать книгу</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>эш биреү</seg></tuv>
+<tuv xml:lang="ru"><seg>давать работу</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ял биреү</seg></tuv>
+<tuv xml:lang="ru"><seg>дать отпуск</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>имтихан биреү</seg></tuv>
+<tuv xml:lang="ru"><seg>сдавать экзамен</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>дəрес биреү</seg></tuv>
+<tuv xml:lang="ru"><seg>давать урок</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>файҙа биреү</seg></tuv>
+<tuv xml:lang="ru"><seg>принести пользу, дать прибыль</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>һөҙөмтə биреү</seg></tuv>
+<tuv xml:lang="ru"><seg>дать результат</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>дəрт биреү</seg></tuv>
+<tuv xml:lang="ru"><seg>придать бодрости</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəм биреү</seg></tuv>
+<tuv xml:lang="ru"><seg>придавать красоты</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>аҡыл биреү</seg></tuv>
+<tuv xml:lang="ru"><seg>учить, поучать, советовать</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>звонок биреү</seg></tuv>
+<tuv xml:lang="ru"><seg>дать звонок, звонить</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>кəңəш биреү</seg></tuv>
+<tuv xml:lang="ru"><seg>дать совет, советовать</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>мөмкинлек биреү</seg></tuv>
+<tuv xml:lang="ru"><seg>дать возможность</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ризалыҡ биреү</seg></tuv>
+<tuv xml:lang="ru"><seg>дать согласие, согласиться</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>рөхсəт биреү</seg></tuv>
+<tuv xml:lang="ru"><seg>дать разрешение, разрешить</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>сəлəм биреү</seg></tuv>
+<tuv xml:lang="ru"><seg>приветствовать, здороваться</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>телеграмма биреү</seg></tuv>
+<tuv xml:lang="ru"><seg>дать телеграмму, телеграфировать</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>алып биреү</seg></tuv>
+<tuv xml:lang="ru"><seg>подавать, покупать</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>аңлатып биреү</seg></tuv>
+<tuv xml:lang="ru"><seg>объяснить кому</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>һатып биреү</seg></tuv>
+<tuv xml:lang="ru"><seg>продать</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>эшлəп биреү</seg></tuv>
+<tuv xml:lang="ru"><seg>сделать что-то</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəн биреү</seg></tuv>
+<tuv xml:lang="ru"><seg>умирать</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>кəрəген биреү</seg></tuv>
+<tuv xml:lang="ru"><seg>проучить кого</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>тауыш биреү</seg></tuv>
+<tuv xml:lang="ru"><seg>подавать, отдавать голос; голосовать, откликаться</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>фатиха биреү</seg></tuv>
+<tuv xml:lang="ru"><seg>благословлять</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>һүҙ биреү</seg></tuv>
+<tuv xml:lang="ru"><seg>давать слово, обещать; предоставлять слово</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>юл биреү</seg></tuv>
+<tuv xml:lang="ru"><seg>давать, уступать дорогу</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>яза биреү</seg></tuv>
+<tuv xml:lang="ru"><seg>наказывать, наложить взыскание</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>беҙҙə ҡунаҡтар булды</seg></tuv>
+<tuv xml:lang="ru"><seg>у нас были гости</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ваҡытым булманы</seg></tuv>
+<tuv xml:lang="ru"><seg>у меня не было времени</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>магазинда ҡыҙыҡлы китаптар була</seg></tuv>
+<tuv xml:lang="ru"><seg>в магазине бывают интересные книги</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>тишегеҙ</seg></tuv>
+<tuv xml:lang="ru"><seg>проколите</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>аттың башынан алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>брать коня под уздцы</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>билдəн алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>хватать за пояс, схватить поясницу</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>китапты алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>взять книгу</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ҡосаҡҡа алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>обнять,заключить в объятия</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ҡулға алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>взять в руки; арестовать</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>һыу алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>черпать воду; брать воду</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>бурысҡа аҡса алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>брать деньги в долг</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>уҡырға китап алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>взять книгу для чтения</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>хеҙмəтсе алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>брать, нанимать прислугу</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>магазиндан икмəк алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>брать хлеб в магазине</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>театрға билет алыу</seg></tuv>
+<tuv xml:lang="ru"><seg>купить билет в театр</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>эштə булыу</seg></tuv>
+<tuv xml:lang="ru"><seg>находиться на работе</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>өйҙə булыу</seg></tuv>
+<tuv xml:lang="ru"><seg>быть дома</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>врачта булыу</seg></tuv>
+<tuv xml:lang="ru"><seg>быть у врача</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>бергə булыу</seg></tuv>
+<tuv xml:lang="ru"><seg>быть вместе</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>əллə ҡайҙа булыу</seg></tuv>
+<tuv xml:lang="ru"><seg>находиться где-либо</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəй булды</seg></tuv>
+<tuv xml:lang="ru"><seg>наступило лето</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>кис булды</seg></tuv>
+<tuv xml:lang="ru"><seg>наступил вечер</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>төн булды</seg></tuv>
+<tuv xml:lang="ru"><seg>наступила ночь</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ул уҡытыусы булды</seg></tuv>
+<tuv xml:lang="ru"><seg>он стал учителем</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>əсəй булыу</seg></tuv>
+<tuv xml:lang="ru"><seg>стать матерью</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>мейес булды</seg></tuv>
+<tuv xml:lang="ru"><seg>печь готова</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>дəрес булды</seg></tuv>
+<tuv xml:lang="ru"><seg>урок был, урок состоялся</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>туй булды</seg></tuv>
+<tuv xml:lang="ru"><seg>свадьба состоялась</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>революция булды</seg></tuv>
+<tuv xml:lang="ru"><seg>совершилась революция</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>уларҙың улдары булған</seg></tuv>
+<tuv xml:lang="ru"><seg>у них родился сын</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>уҡыу менəн булыу</seg></tuv>
+<tuv xml:lang="ru"><seg>заниматься учебой</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>хужалыҡ менəн булыу</seg></tuv>
+<tuv xml:lang="ru"><seg>заниматься хозяйством</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>балалар менəн булыу</seg></tuv>
+<tuv xml:lang="ru"><seg>заниматься детьми</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>драп бик ныҡ булып сыҡты</seg></tuv>
+<tuv xml:lang="ru"><seg>драп оказался очень прочным</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>улар күрше булып сыҡты</seg></tuv>
+<tuv xml:lang="ru"><seg>они оказались соседями</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ул кинола булып сыҡты</seg></tuv>
+<tuv xml:lang="ru"><seg>он оказался в кино</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>бармаҫҡа булдыҡ</seg></tuv>
+<tuv xml:lang="ru"><seg>решили не ходить</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>иртəгə китергə булдыҡ</seg></tuv>
+<tuv xml:lang="ru"><seg>решили завтра уехать</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>уның менəн булма, кəйефе юҡ</seg></tuv>
+<tuv xml:lang="ru"><seg>не приставай к нему, он расстроен</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>бала менəн булма, дəресен əҙерлəһен</seg></tuv>
+<tuv xml:lang="ru"><seg>не приставай к ребенку , пусть готовит уроки</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>вафат булыу</seg></tuv>
+<tuv xml:lang="ru"><seg>скончаться, умереть</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ғашиҡ булыу</seg></tuv>
+<tuv xml:lang="ru"><seg>влюбиться</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ҡунаҡ булыу</seg></tuv>
+<tuv xml:lang="ru"><seg>гостить</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>риза булыу</seg></tuv>
+<tuv xml:lang="ru"><seg>соглашаться</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>харап булыу</seg></tuv>
+<tuv xml:lang="ru"><seg>разрушаться, разоряться</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>хасил булыу</seg></tuv>
+<tuv xml:lang="ru"><seg>появляться, возникать</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>мəхрүм булыу</seg></tuv>
+<tuv xml:lang="ru"><seg>лишение</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>һəлəк булыу</seg></tuv>
+<tuv xml:lang="ru"><seg>гибнуть, умирать</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>əрəм булыу</seg></tuv>
+<tuv xml:lang="ru"><seg>пропадать зря</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>барып була</seg></tuv>
+<tuv xml:lang="ru"><seg>идти можно</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>күтəреп булмай</seg></tuv>
+<tuv xml:lang="ru"><seg>невозможно поднять</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ашап булмай</seg></tuv>
+<tuv xml:lang="ru"><seg>невозможно есть</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>илсе ебəреү</seg></tuv>
+<tuv xml:lang="ru"><seg>направить посла</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>кеше ебəреү</seg></tuv>
+<tuv xml:lang="ru"><seg>прислать человека</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>күстəнəс ебəреү</seg></tuv>
+<tuv xml:lang="ru"><seg>отправить гостинец</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>аҡсаны почта менəн ебəреү</seg></tuv>
+<tuv xml:lang="ru"><seg>переслать деньги по почте</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>документтарҙы ебəреү</seg></tuv>
+<tuv xml:lang="ru"><seg>выслать документы</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>хат ебəреү</seg></tuv>
+<tuv xml:lang="ru"><seg>послать письмо</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>эшкə ебəреү</seg></tuv>
+<tuv xml:lang="ru"><seg>направить на работу</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>уҡырға ебəреү</seg></tuv>
+<tuv xml:lang="ru"><seg>направить на учебу</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ебəреп тороу</seg></tuv>
+<tuv xml:lang="ru"><seg>отправлять, посылать</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>сəлəм ебəреү</seg></tuv>
+<tuv xml:lang="ru"><seg>послать привет</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>уҡыусыларҙы каникулға ебəреү</seg></tuv>
+<tuv xml:lang="ru"><seg>распустить учащихся на каникулы</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>баш ауыртыуы əҙерəк ебəрҙе</seg></tuv>
+<tuv xml:lang="ru"><seg>головная боль немного отпустила</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>иреккə ебəреү</seg></tuv>
+<tuv xml:lang="ru"><seg>отпустить на волю, освободить</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ҡошто ситлектəн сығарып ебəреү</seg></tuv>
+<tuv xml:lang="ru"><seg>выпустить птичку из клетки</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>яҡын ебəреү</seg></tuv>
+<tuv xml:lang="ru"><seg>подпустить ближе</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>мыйыҡ ебəреү</seg></tuv>
+<tuv xml:lang="ru"><seg>отпустить усы</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>тауар ебəреү</seg></tuv>
+<tuv xml:lang="ru"><seg>отпускать товар</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>төҙөлөшкə аҡса ебəреү</seg></tuv>
+<tuv xml:lang="ru"><seg>ассигновать средства на строительство</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>фатирға ебəреү</seg></tuv>
+<tuv xml:lang="ru"><seg>пустить на квартиру</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>фəнде алға ебəреү</seg></tuv>
+<tuv xml:lang="ru"><seg>двигать науку вперед</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>моторҙы ебəреү</seg></tuv>
+<tuv xml:lang="ru"><seg>запустить мотор</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>сəғəтте ебəреү</seg></tuv>
+<tuv xml:lang="ru"><seg>завести часы</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>электр станцияһын ебəреү</seg></tuv>
+<tuv xml:lang="ru"><seg>пустить электростанцию</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>таш менəн ебəреү</seg></tuv>
+<tuv xml:lang="ru"><seg>бросить камень</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>уҡ ебəреү</seg></tuv>
+<tuv xml:lang="ru"><seg>пустить стрелу</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>башаҡ ебəреү</seg></tuv>
+<tuv xml:lang="ru"><seg>выбросить колос, заколоситься</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>тамыр ебəреү</seg></tuv>
+<tuv xml:lang="ru"><seg>пустить корень</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>венаға дарыу ебəреү</seg></tuv>
+<tuv xml:lang="ru"><seg>ввести лекарство в вену</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ағыҙып ебəреү</seg></tuv>
+<tuv xml:lang="ru"><seg>пустить по течению</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>бороп ебəреү</seg></tuv>
+<tuv xml:lang="ru"><seg>повернуть обратно</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ҡайтарып ебəреү</seg></tuv>
+<tuv xml:lang="ru"><seg>возвратить, вернуть, отправить, отослать обратно</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>асып ебəреү</seg></tuv>
+<tuv xml:lang="ru"><seg>распахнуть</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йырлап ебəреү</seg></tuv>
+<tuv xml:lang="ru"><seg>запеть</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>көлөп ебəреү</seg></tuv>
+<tuv xml:lang="ru"><seg>засмеяться</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ташлап ебəреү</seg></tuv>
+<tuv xml:lang="ru"><seg>швырнуть с силой</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>төртөп ебəреү</seg></tuv>
+<tuv xml:lang="ru"><seg>оттолкнуть</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>һыуытып ебəреү</seg></tuv>
+<tuv xml:lang="ru"><seg>похолодать</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>шаштырып ебəреү</seg></tuv>
+<tuv xml:lang="ru"><seg>переборщить</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>өйгə инеү</seg></tuv>
+<tuv xml:lang="ru"><seg>войти в дом</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>углубиться в лес</seg></tuv>
+<tuv xml:lang="ru"><seg>зайти в дом урманға инеү</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>инеп йөрөү</seg></tuv>
+<tuv xml:lang="ru"><seg>захаживать, заезжать время от времени</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>инеп китеү</seg></tuv>
+<tuv xml:lang="ru"><seg>войти , зайти</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>инеп сығыу</seg></tuv>
+<tuv xml:lang="ru"><seg>зайти, забежать, заехать ненадолго</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>килеп инеү</seg></tuv>
+<tuv xml:lang="ru"><seg>войти, въехать, въезжать</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>исемлеккə инеү</seg></tuv>
+<tuv xml:lang="ru"><seg>войти в список</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>иҫəпкə инеү</seg></tuv>
+<tuv xml:lang="ru"><seg>входить в счет</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>аяғы инһə, башы инмəгəн</seg></tuv>
+<tuv xml:lang="ru"><seg>ноги вошли, но голова еще не вошла</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>бармаҡҡа шырау инде</seg></tuv>
+<tuv xml:lang="ru"><seg>в палец воткнулась заноза</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>дауаханаға инеү</seg></tuv>
+<tuv xml:lang="ru"><seg>попадать в больницу</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ауылға газ инде</seg></tuv>
+<tuv xml:lang="ru"><seg>в деревню проведен газ</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>көс инеү</seg></tuv>
+<tuv xml:lang="ru"><seg>стать сильным кеше</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ҡиəфəтенə инеү</seg></tuv>
+<tuv xml:lang="ru"><seg>принять человеческий вид</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>күк төҫкə инеү</seg></tuv>
+<tuv xml:lang="ru"><seg>стать синим</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>алып инеү</seg></tuv>
+<tuv xml:lang="ru"><seg>вносить, втаскивать, вводить</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ҡайтып инеү</seg></tuv>
+<tuv xml:lang="ru"><seg>возвратиться</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>осоп инеү</seg></tuv>
+<tuv xml:lang="ru"><seg>влететь, залететь</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>үтеп инеү</seg></tuv>
+<tuv xml:lang="ru"><seg>пройти</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ҡалаға инеү тыйыла</seg></tuv>
+<tuv xml:lang="ru"><seg>въезд в город запрещен</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>инеүеңдəн алда сығыуыңды уйла</seg></tuv>
+<tuv xml:lang="ru"><seg>прежде чем войти, подумай, как выйти</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>уҡырға инеү</seg></tuv>
+<tuv xml:lang="ru"><seg>поступление на учебу</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>эшкə инеү өсөн</seg></tuv>
+<tuv xml:lang="ru"><seg>для поступления на работу</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>аҡыл инеү</seg></tuv>
+<tuv xml:lang="ru"><seg>поумнеть, стать умным</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>араға инеү</seg></tuv>
+<tuv xml:lang="ru"><seg>вмешиваться, впутываться</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>башҡа инеү</seg></tuv>
+<tuv xml:lang="ru"><seg>прийти в голову</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>был уй башыма инеп тə сыҡманы</seg></tuv>
+<tuv xml:lang="ru"><seg>эта мысль мне и в голову не приходила</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>гүргə инеү</seg></tuv>
+<tuv xml:lang="ru"><seg>умереть, скончаться</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ғəҙəткə инеү</seg></tuv>
+<tuv xml:lang="ru"><seg>войти в привычку</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>дəрт инеү</seg></tuv>
+<tuv xml:lang="ru"><seg>становиться вдохновленным; воодушевиться, вдохновиться</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>көс инеү</seg></tuv>
+<tuv xml:lang="ru"><seg>становиться сильным, крепнуть, окрепнуть</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>мунса инеү</seg></tuv>
+<tuv xml:lang="ru"><seg>мыться в бане</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>төшкə инеү</seg></tuv>
+<tuv xml:lang="ru"><seg>сниться, видеть во сне</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>хəл инеү</seg></tuv>
+<tuv xml:lang="ru"><seg>становиться лучше</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>һыу инеү</seg></tuv>
+<tuv xml:lang="ru"><seg>купаться</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>эскə йылы инеү – согреться, отогреться; успокоиться, чувствовать себя лучше</seg></tuv>
+<tuv xml:lang="ru"><seg>согреться, отогреться; успокоиться, чувствовать себя лучше</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>административ орган, хакимиəт органы</seg></tuv>
+<tuv xml:lang="ru"><seg>административный орган</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>акционерҙар йəмғиəте</seg></tuv>
+<tuv xml:lang="ru"><seg>акционерное общество</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>хəйриə йəмғиəте</seg></tuv>
+<tuv xml:lang="ru"><seg>благотворительное общество</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>синыфһыҙ йəмғиəт</seg></tuv>
+<tuv xml:lang="ru"><seg>бесклассовое общество</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>география йəмғиəте</seg></tuv>
+<tuv xml:lang="ru"><seg>географическое общество</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>дəүлəт власы</seg></tuv>
+<tuv xml:lang="ru"><seg>государственная власть</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>дəүлəт органдары</seg></tuv>
+<tuv xml:lang="ru"><seg>государственные органы</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Башҡортостан Республикаһы Дəүлəт йыйылышы – Ҡоролтайы</seg></tuv>
+<tuv xml:lang="ru"><seg>Государственное Собрание – Курултай Республики Башкортостан</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>дəүлəт унитар предприятиеһы</seg></tuv>
+<tuv xml:lang="ru"><seg>государственное унитарное предприятие</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>дəүлəт мəғариф учреждениеһы</seg></tuv>
+<tuv xml:lang="ru"><seg>государственное образовательное учреждение</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ҡала билəмəһе</seg></tuv>
+<tuv xml:lang="ru"><seg>городское поселение</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ҡала округы</seg></tuv>
+<tuv xml:lang="ru"><seg>городской округ</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ҡала йəмəғəтселеге</seg></tuv>
+<tuv xml:lang="ru"><seg>городская общественность</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>граждандар йəмғиəте</seg></tuv>
+<tuv xml:lang="ru"><seg>гражданское общество</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəмғиəттең этəргес көстəре</seg></tuv>
+<tuv xml:lang="ru"><seg>движущие силы общества</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ирекле йəмғиəт</seg></tuv>
+<tuv xml:lang="ru"><seg>добровольное общество</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>хоҡуҡ сығарыу органы</seg></tuv>
+<tuv xml:lang="ru"><seg>законодательный орган</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəмғиəттең үҫеш ҡанундары</seg></tuv>
+<tuv xml:lang="ru"><seg>законы общественного развития</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>башҡарма орган</seg></tuv>
+<tuv xml:lang="ru"><seg>исполнительный орган</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>яңыса белем биреү учреждениеһы</seg></tuv>
+<tuv xml:lang="ru"><seg>инновационное образовательное учреждение</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəмғиəт мəнфəғəте</seg></tuv>
+<tuv xml:lang="ru"><seg>интересы общества</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>капиталистик йəмғиəт</seg></tuv>
+<tuv xml:lang="ru"><seg>капиталистическое общество –</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Башҡортостан Республикаһы Хөкүмəте ҡарамағындағыКомиссия</seg></tuv>
+<tuv xml:lang="ru"><seg>Комиссия при Правительстве Республики Башкортостан</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>коммунистик йəмғиəт</seg></tuv>
+<tuv xml:lang="ru"><seg>коммунистическое общество</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>контроль бүлеге</seg></tuv>
+<tuv xml:lang="ru"><seg>контрольный отдел</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ведомство-ара бəйлəнештəр</seg></tuv>
+<tuv xml:lang="ru"><seg>межведомственные связи</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>муниципаль берəмек</seg></tuv>
+<tuv xml:lang="ru"><seg>муниципальное образование</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>муниципаль район</seg></tuv>
+<tuv xml:lang="ru"><seg>муниципальный район</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>министрлыҡ</seg></tuv>
+<tuv xml:lang="ru"><seg>министерство</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Башҡортостан Республикаһы мəғариф министрлығы</seg></tuv>
+<tuv xml:lang="ru"><seg>Министерство образования Республики Башкортостан</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Башҡортостан Республикаһы мəҙəниəт һəм милли сəйəсəт министрлығы</seg></tuv>
+<tuv xml:lang="ru"><seg>Министерство культуры и национальной политики Республики Башкортостан</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Иҡтисад үҫеше министрлығы</seg></tuv>
+<tuv xml:lang="ru"><seg>Министерство экономического развития</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Тышҡы иҡтисад, сауҙа һəм сəнəғəт министрлығы</seg></tuv>
+<tuv xml:lang="ru"><seg>Министерство внешнеэкономических связей, торговли и предпринимательства</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Сəнəғəт, инвестиция һəм инновация сəйəсəте министрлығы</seg></tuv>
+<tuv xml:lang="ru"><seg>Министерство промышленности, инвестиционной и инновационной политики</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Ер һəм мөлкəт мөнəсəбəттəре министрлығы</seg></tuv>
+<tuv xml:lang="ru"><seg>Министерство земельных и имущественных отношений</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Башҡортостан Республикаһы буйынса Эске эштəр министрлығы</seg></tuv>
+<tuv xml:lang="ru"><seg>Министерство внутренних дел по Республике Башкортостан</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Урман хужалығы министрлығы</seg></tuv>
+<tuv xml:lang="ru"><seg>Министерство лесного хозяйства</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Төҙөлөш, архитектура һəм транспорт министрлығы</seg></tuv>
+<tuv xml:lang="ru"><seg>Министерство строительства, архитектуры и транспорта</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>донъя йəмəғəтселеге</seg></tuv>
+<tuv xml:lang="ru"><seg>мировая общественность</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəштəр үҙəге</seg></tuv>
+<tuv xml:lang="ru"><seg>молодежный центр</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ғилми йəмғиəт</seg></tuv>
+<tuv xml:lang="ru"><seg>научное общество</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ғəмəли конференция</seg></tuv>
+<tuv xml:lang="ru"><seg>научно-практическая конференция</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ғилми (фəнни) семинар</seg></tuv>
+<tuv xml:lang="ru"><seg>научный семинар</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ғилми (фəнни) хеҙмəткəр</seg></tuv>
+<tuv xml:lang="ru"><seg>научный сотрудник</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Башҡортостан Республикаһы</seg></tuv>
+<tuv xml:lang="ru"><seg>Республика Башкортостан</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Башҡортостан Республикаһы Президенты Хакимиəте Етəксеһе</seg></tuv>
+<tuv xml:lang="ru"><seg>Руководитель Администрации Президента Республики Башкортостан</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Башҡортостан Республикаһы Хөкүмəте ҡарамағындағы идаралыҡ</seg></tuv>
+<tuv xml:lang="ru"><seg>Управление при Правительстве Республики Башкортостан</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Идаралыҡ етəксеһе</seg></tuv>
+<tuv xml:lang="ru"><seg>Руководитель Управления</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ауыл билəмəһе</seg></tuv>
+<tuv xml:lang="ru"><seg>сельское поселение</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Театр эшмəкəрҙəре союзы</seg></tuv>
+<tuv xml:lang="ru"><seg>Союз театральных деятелей</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>бүлек белгесе</seg></tuv>
+<tuv xml:lang="ru"><seg>специалист отдела</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>социалистик йəмғиəт</seg></tuv>
+<tuv xml:lang="ru"><seg>социалистическое общество</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ирекле йəмғиəт</seg></tuv>
+<tuv xml:lang="ru"><seg>свободное общество</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ауыл хужалығы тармағы</seg></tuv>
+<tuv xml:lang="ru"><seg>отрасль сельского хозяйства</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>яуаплылығы сиклəнгəн йəмғиəт</seg></tuv>
+<tuv xml:lang="ru"><seg>общество с ограниченной ответственностью</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>тарих һəм мəҙəниəт ҡомартҡыларын һаҡлау йəмғиəте</seg></tuv>
+<tuv xml:lang="ru"><seg>общество охраны памятников истории и культуры</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəмғиəт ҡоролошо</seg></tuv>
+<tuv xml:lang="ru"><seg>общественный строй</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəмғиəт милке</seg></tuv>
+<tuv xml:lang="ru"><seg>общественная собственность</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəмғиəт ихтыяжы</seg></tuv>
+<tuv xml:lang="ru"><seg>общественная потребность</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəмғиəткə файҙалы хеҙмəт</seg></tuv>
+<tuv xml:lang="ru"><seg>общественно-полезный труд</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəмғиəт тормошо</seg></tuv>
+<tuv xml:lang="ru"><seg>общественная жизнь</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəмғиəт өсөн хəүефле</seg></tuv>
+<tuv xml:lang="ru"><seg>опасный для общества</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəмəғəт контроле</seg></tuv>
+<tuv xml:lang="ru"><seg>общественный контроль</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəмəғəт ойошмаһы</seg></tuv>
+<tuv xml:lang="ru"><seg>общественная организация</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəмəғəт эше</seg></tuv>
+<tuv xml:lang="ru"><seg>общественная работа</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəмəғəт эшмəкəре</seg></tuv>
+<tuv xml:lang="ru"><seg>общественный деятель</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəмəғəт милке</seg></tuv>
+<tuv xml:lang="ru"><seg>общественная собственность</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəмəғəт туҡланыуы</seg></tuv>
+<tuv xml:lang="ru"><seg>общественное питание</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəмəғəт шелтəһе</seg></tuv>
+<tuv xml:lang="ru"><seg>общественное порицание</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəмəғəт ғəйеплəүсеһе</seg></tuv>
+<tuv xml:lang="ru"><seg>общественный обвинитель</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəмəғəт үҙидараһы</seg></tuv>
+<tuv xml:lang="ru"><seg>общественное самоуправление</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəмəғəт яҡлаусыһы</seg></tuv>
+<tuv xml:lang="ru"><seg>общественный защитник</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəмəғəт тəрбиəсеһе</seg></tuv>
+<tuv xml:lang="ru"><seg>общественный воспитатель</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəмəғəт саҡырыуы</seg></tuv>
+<tuv xml:lang="ru"><seg>общественный призыв</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəмəғəт тəртибе</seg></tuv>
+<tuv xml:lang="ru"><seg>общественный порядок</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəмəғəт хужалығы</seg></tuv>
+<tuv xml:lang="ru"><seg>общественное хозяйство</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəмəғəт фонды</seg></tuv>
+<tuv xml:lang="ru"><seg>общественный фонд</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəмəғəт учреждениеһы</seg></tuv>
+<tuv xml:lang="ru"><seg>общественное учреждение</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəмəғəт үҙешмəкəрлеге</seg></tuv>
+<tuv xml:lang="ru"><seg>общественная самодеятельность</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəмəғəт берекмəһе (берлəшмəһе)</seg></tuv>
+<tuv xml:lang="ru"><seg>общественное объединение</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəмəғəт суды</seg></tuv>
+<tuv xml:lang="ru"><seg>общественный суд</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəмəғəт игене</seg></tuv>
+<tuv xml:lang="ru"><seg>общественный хлеб</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəмəғəт малы</seg></tuv>
+<tuv xml:lang="ru"><seg>общественный скот</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəмəғəт байлығы</seg></tuv>
+<tuv xml:lang="ru"><seg>общественное богатство</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəмəғəт кəңəшмəһе</seg></tuv>
+<tuv xml:lang="ru"><seg>общественное совещание</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəмəғəт палатаһы</seg></tuv>
+<tuv xml:lang="ru"><seg>общественная палата</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəмəғəт ҡабул итеү бүлмəһе</seg></tuv>
+<tuv xml:lang="ru"><seg>общественная приемная</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəмəғəт именлеге</seg></tuv>
+<tuv xml:lang="ru"><seg>общественная безопасность</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəмəғəт үҙəге</seg></tuv>
+<tuv xml:lang="ru"><seg>общественный центр</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəмəғəт музейы</seg></tuv>
+<tuv xml:lang="ru"><seg>общественный музей</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəмəғəт транспорты</seg></tuv>
+<tuv xml:lang="ru"><seg>общественный транспорт</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəмəғəт именлеге милицияһы</seg></tuv>
+<tuv xml:lang="ru"><seg>милиция общественной безопасности</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəмəғəтселек фекере</seg></tuv>
+<tuv xml:lang="ru"><seg>общественное мнение</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəмəғəтселек йоғонтоһо</seg></tuv>
+<tuv xml:lang="ru"><seg>общественное воздействие</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəмəғəтселек советтары</seg></tuv>
+<tuv xml:lang="ru"><seg>общественные советы</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəмəғəтселек эшмəкəрлеге</seg></tuv>
+<tuv xml:lang="ru"><seg>общественная деятельность</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəмəғəтселек гарантияһы</seg></tuv>
+<tuv xml:lang="ru"><seg>общественные гарантии</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəмəғəтселек башланғысында</seg></tuv>
+<tuv xml:lang="ru"><seg>на общественных началах</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəмəғəтселек ярҙамы</seg></tuv>
+<tuv xml:lang="ru"><seg>общественная помощь</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ижтимағи көрəш</seg></tuv>
+<tuv xml:lang="ru"><seg>общественная борьба</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ижтимағи эшмəкəрлек</seg></tuv>
+<tuv xml:lang="ru"><seg>общественная деятельность</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ижтимағи тормош</seg></tuv>
+<tuv xml:lang="ru"><seg>общественная жизнь</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ижтимағи производство</seg></tuv>
+<tuv xml:lang="ru"><seg>общественное производство (предприятие)</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ижтимағи етештереү</seg></tuv>
+<tuv xml:lang="ru"><seg>общественное производство (выработка)</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ижтимағи үҙəк</seg></tuv>
+<tuv xml:lang="ru"><seg>общественный центр</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ижтимағи фəндəр</seg></tuv>
+<tuv xml:lang="ru"><seg>общественные науки</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ижтимағи көстəр</seg></tuv>
+<tuv xml:lang="ru"><seg>общественные силы</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ижтимағи хəрəкəт</seg></tuv>
+<tuv xml:lang="ru"><seg>общественное движение</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ижтимағи əһəмиəт</seg></tuv>
+<tuv xml:lang="ru"><seg>общественное значение</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ижтимағи үҫеш</seg></tuv>
+<tuv xml:lang="ru"><seg>общественное развитие</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ижтимағи аң</seg></tuv>
+<tuv xml:lang="ru"><seg>общественное сознание</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ижтимағи күренеш</seg></tuv>
+<tuv xml:lang="ru"><seg>общественное явление</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ижтимағи синыфтар</seg></tuv>
+<tuv xml:lang="ru"><seg>общественные классы</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ижтимағи мөнəсəбəттəр</seg></tuv>
+<tuv xml:lang="ru"><seg>общественные отношения</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ижтимағи прогресс</seg></tuv>
+<tuv xml:lang="ru"><seg>общественный прогресс</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ижтимағи хеҙмəт</seg></tuv>
+<tuv xml:lang="ru"><seg>общественный труд</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ижтимағи-сəйəси тормош</seg></tuv>
+<tuv xml:lang="ru"><seg>общественно-политическая жизнь</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ижтимағи-сəйəси гəзит</seg></tuv>
+<tuv xml:lang="ru"><seg>общественно-политическая газета</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>республика йəмəғəтселеге</seg></tuv>
+<tuv xml:lang="ru"><seg>общественность республики</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>завод йəмəғəтселеге</seg></tuv>
+<tuv xml:lang="ru"><seg>общественность завода</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>дөйөм бүлек</seg></tuv>
+<tuv xml:lang="ru"><seg>общий отдел</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>мəғлүмəт тəьминəте бүлеге</seg></tuv>
+<tuv xml:lang="ru"><seg>отдел информационного обеспечения</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>мониторинг бүлеге</seg></tuv>
+<tuv xml:lang="ru"><seg>отдел мониторинга</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>тəьминəт бүлеге</seg></tuv>
+<tuv xml:lang="ru"><seg>отдел обеспечения</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>кадрҙар менəн эшлəү бүлеге</seg></tuv>
+<tuv xml:lang="ru"><seg>отдел по работе с кадрами</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>халыҡты хеҙмəтлəндереү бүлеге</seg></tuv>
+<tuv xml:lang="ru"><seg>отдел услуг населению</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ойоштороу бүлеге</seg></tuv>
+<tuv xml:lang="ru"><seg>организационный отдел</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>урындағы үҙидара органдары</seg></tuv>
+<tuv xml:lang="ru"><seg>органы местного самоуправления</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>министрҙың беренсе урынбаҫары</seg></tuv>
+<tuv xml:lang="ru"><seg>первый заместитель министра</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>етəксе ярҙамсыһы</seg></tuv>
+<tuv xml:lang="ru"><seg>помощник руководителя</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>бағыусылыҡ советы</seg></tuv>
+<tuv xml:lang="ru"><seg>попечительский совет</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Башҡортостан Республикаһы Президенты Мөрəжəғəтнамəһе</seg></tuv>
+<tuv xml:lang="ru"><seg>Послание Президента Республики Башкортостан</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ҡулланыусылар йəмғиəте</seg></tuv>
+<tuv xml:lang="ru"><seg>потребительское общество</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Представительство Башкортостана</seg></tuv>
+<tuv xml:lang="ru"><seg>Башҡортостан вəкиллеге</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>Башҡортостан вəкиле</seg></tuv>
+<tuv xml:lang="ru"><seg>Представитель Башкортостана</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəмəғəт вəкиле</seg></tuv>
+<tuv xml:lang="ru"><seg>представитель общества</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>йəмғиəткə ҡаршы көстəр</seg></tuv>
+<tuv xml:lang="ru"><seg>противообщественные силы</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>спорт йəмғиəте</seg></tuv>
+<tuv xml:lang="ru"><seg>спортивное общество</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>юғары профессиональ (һөнəри) белем биреү учреждениеһы</seg></tuv>
+<tuv xml:lang="ru"><seg>учреждение высшего профессионального образования</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>ял итеү үҙəге</seg></tuv>
+<tuv xml:lang="ru"><seg>центр досуга</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>кешелек йəмғиəте</seg></tuv>
+<tuv xml:lang="ru"><seg>человеческое общество</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ba"><seg>киң йəмəғəтселек</seg></tuv>
+<tuv xml:lang="ru"><seg>широкая общественность</seg></tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tmx version="1.4">
+<header creationtool="ABBYY Aligner" creationtoolversion="1.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="en-US" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="ru"><seg>В Башкирии похолодает до 15 градусов мороза</seg></tuv>
+<tuv xml:lang="ba"><seg>Башҡортостанда 15 градусҡа саҡлы һыуытасаҡ</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ru"><seg>В ближайшую ночь, 24 октября, синоптики прогнозируют в республике минус 3-8 градусов.</seg></tuv>
+<tuv xml:lang="ba"><seg>Синоптиктар күҙаллауынса, ошо төндә, 24 октябрҙә, республика буйынса 3-8 градус һалҡын буласаҡ.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="ru"><seg>При прояснениях – до 15 градусов мороза. Об этом предупреждает Башкирское управление по гидрометеорологии и мониторингу окружающей среды.</seg></tuv>
+<tuv xml:lang="ba"><seg>Аяҙытҡанда - 15 градусҡа саҡлы һыуыҡ. Был турала Башҡртостандың гидрометеороголияһәм тирә яҡты күҙәтеүҙәре хәбәр итә.</seg></tuv>
+</tu>
+</body>
+</tmx>
