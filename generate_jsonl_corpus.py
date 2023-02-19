@@ -155,17 +155,39 @@ def prepare_tg_bot():
             ru_lines.append(cells[2])
     return ba_lines, ru_lines
 
+def prepare_bashinform_new():
+    ba_lines = []
+    ru_lines = []
+
+    files_names = os.listdir("bashinform_new")
+    for file in files_names:
+        with open(f"bashinform_new/{file}","rt") as f:
+            lines = f.readlines()
+            lines=lines[1:]
+            for line in lines:
+                line=line.strip()
+                if line=="" or " @ " not in line:
+                    continue
+                cells = line.replace(" @ ","\t").split('\t')
+                ba_lines.append(cells[1])
+                ru_lines.append(cells[0])
+    return ba_lines, ru_lines
 
 def write_to_file(f, ba_lines, ru_lines, corpus_name):
     assert len(ba_lines) == len(ru_lines)
     global uniq_ba
+    added=0
+    skipped=0
     for i in range(len(ba_lines)):
         if ba_lines[i] not in uniq_ba:
             f.write(json.dumps({'ba': ba_lines[i], 'ru': ru_lines[i],
                                 'corpus': corpus_name},
                                ensure_ascii=False) + "\n")
+            added+=1
             uniq_ba.add(ba_lines[i])
-    print(corpus_name, " - ", len(ba_lines))
+        else:
+            skipped+=1
+    print(f'Корпус {corpus_name}. Бөтәһе {len(ba_lines)} һөйләм, өҫтәлде {added} һөйләм,төшөрөп ҡалдырҙыҡ {skipped} һөйләм')
 
 
 if __name__ == '__main__':
@@ -176,9 +198,9 @@ if __name__ == '__main__':
     if args.corpus is not None:
         corpuses = args.corpus
     else:
-        corpuses = ['translated_books', '1000-sentences', 'bash_encyclopedia', 'bashinform',
+        corpuses = ['translated_books', '1000-sentences', 'bash_encyclopedia', 'bashinform','bashinform_new',
                     'little_prince', 'raw-1000000', 'tmx']
-        # corpuses = [ 'translated_books']
+        # corpuses = [ 'bashinform_new']
 
     result_jsonl = []
     with open("ba_ru.jsonl", "wt") as f:
@@ -206,6 +228,9 @@ if __name__ == '__main__':
             elif corpus=="translated_books":
                 ba_lines, ru_lines = prepare_tg_bot()
                 write_to_file(f, ba_lines, ru_lines, 'https://t.me/bashkort_translate_bot')
+            elif corpus=="bashinform_new":
+                ba_lines, ru_lines = prepare_bashinform_new()
+                write_to_file(f, ba_lines, ru_lines, 'bashinform')
 
     print(len(corpuses))
     print(corpuses)

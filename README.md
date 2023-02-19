@@ -1,5 +1,18 @@
 # Башкирско-русский и русско-башкирский параллельный корпус
 
+## You can download this dataset from the HuggingFace:
+https://huggingface.co/datasets/AigizK/bashkir-russian-parallel-corpora
+
+## Update 19.02.2023
+- Все корпусы собрал в один JSONL файл: ba_ru.jsonl
+- All corpus was joined to one JSONL file: ba_ru.jsonl
+
+
+Sample of one row:
+
+`{"ba": "535-тән ашыу скважина бырауланған.","ru": "Пробурено свыше 535 скважин.", "corpus": "bashkir encyclopedia"}`
+
+
 ## Папка 1000-sentences
 Переведено с русского на башкирский преподавательницей башкирского языка и литературы Кагармановой Сарией Мухамадьяновной.
 Рядом лежит исходный текст на английском
