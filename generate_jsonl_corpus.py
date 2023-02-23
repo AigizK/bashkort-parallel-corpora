@@ -98,7 +98,7 @@ def prepare_bashkortsoft_corpus():
 
     return ba_lines, ru_lines
 
-uniq_ba=set()
+uniq_mhr=set()
 
 def prepare_tmx():
     from xml.dom.minidom import parse
@@ -175,7 +175,7 @@ def prepare_bashinform_new():
 
 def write_to_file(f, ba_lines, ru_lines, corpus_name):
     assert len(ba_lines) == len(ru_lines)
-    global uniq_ba
+    global uniq_mhr
     added=0
     skipped=0
     for i in range(len(ba_lines)):
